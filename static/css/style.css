@@ -1,0 +1,11 @@
+.container {
+    padding: 1%;
+    margin: 1%;
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        padding: 3%;
+        margin: 1%;
+    }
+}
