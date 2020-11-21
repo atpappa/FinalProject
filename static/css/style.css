@@ -2,19 +2,7 @@
     padding: 1%;
     margin: 1%;
 }
-.tooltip {
-    position: absolute;
-    width: 135px;
-    height: 60px;
-    padding: 2px;
-    padding-top: 8px;
-    font: 12px sans-serif;
-    color: rgb(8, 6, 6);
-    text-align: center;
-    background: #9ae079;
-    border: 0;
-    border-radius: 10px;
-  }
+
 
 .tooltip {
     position: absolute;
