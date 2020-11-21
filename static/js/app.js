@@ -28,7 +28,7 @@ btnj.addEventListener('click', function(){
 
 
     // Load data from hours-of-tv-watched.csv
-    d3.csv("top5jockey.csv").then(function(topData) {
+    d3.csv("../../Resources/top5jockey.csv").then(function(topData) {
 
     console.log(topData);
 
@@ -143,7 +143,7 @@ btnt.addEventListener('click', function(){
 
 
     // Load data from hours-of-tv-watched.csv
-    d3.csv("top5trainer.csv").then(function(topData) {
+    d3.csv("../../Resources/top5trainer.csv").then(function(topData) {
 
     console.log(topData);
 
