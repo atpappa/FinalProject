@@ -16,6 +16,20 @@
     border-radius: 10px;
   }
 
+.tooltip {
+    position: absolute;
+    width: 135px;
+    height: 100px;
+    padding: 2px;
+    padding-top: 8px;
+    font: 12px sans-serif;
+    color: rgb(8, 6, 6);
+    text-align: center;
+    background: #9ae079;
+    border: 0;
+    border-radius: 10px;
+  }
+
 @media only screen and (max-width: 768px) {
     .container {
         padding: 3%;
