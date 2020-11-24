@@ -1,5 +1,6 @@
 var btnj = document.getElementById("Jockey")
 btnj.addEventListener('click', function(){
+    d3.select("svg").remove();
     // Define SVG area dimensions
     var svgWidth = 1500;
     var svgHeight = 1000;
@@ -116,6 +117,7 @@ btnj.addEventListener('click', function(){
     });
 var btnt = document.getElementById("Trainer")
 btnt.addEventListener('click', function(){
+    d3.select("svg").remove();
     // Define SVG area dimensions
     var svgWidth = 1500;
     var svgHeight = 1000;
@@ -144,7 +146,7 @@ btnt.addEventListener('click', function(){
 
 
     // Load data from hours-of-tv-watched.csv
-    d3.csv("../static/resources/top5trainer.csv").then(function(topData) {
+    d3.csv("static/resources/top5trainer.csv").then(function(topData) {
 
 
     console.log(topData);
@@ -231,7 +233,7 @@ btnt.addEventListener('click', function(){
         });
     });
 
-var btnclear = document.getElementById("Clear")
-btnclear.addEventListener('click', function(){
-    d3.select("svg").remove();
-});
+var btnc = document.getElementById("Clear")
+    btnc.addEventListener('click', function(){
+        d3.select('svg').remove();
+    })
