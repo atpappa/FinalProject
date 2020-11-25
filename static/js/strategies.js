@@ -17,9 +17,17 @@ function init() {
         x: d.IDB,
         y: d.ProfitB }];
 
-    Plotly.newPlot("plot", data);
-    }
-  
+        var layout1 = {
+            title: "Betting It All Strategy",
+            xaxis: { title: "Bet" },
+            yaxis: { title: "Profit ($USD)" }
+            };
+        
+            Plotly.newPlot("plot", data, layout1);
+
+        }
+    
+
   // Call updatePlotly() when a change takes place to the DOM
   d3.selectAll("#selDataset").on("change", updatePlotly);
   
@@ -37,29 +45,60 @@ function init() {
         if (dataset === 'dataset1') {
         x = [d.IDB];
         y = [d.ProfitB];
+
+        var layout1 = {
+            title: "Betting It All Strategy",
+            xaxis: { title: "Bet" },
+            yaxis: { title: "Profit ($USD)" }
+          };
         }
     
         if (dataset === 'dataset2') {
         x = [d.IDM];
         y = [d.ProfitM];
+
+        var layout2 = {
+            title: "Martingale System Betting Strategy",
+            xaxis: { title: "Bet" },
+            yaxis: { title: "Profit ($USD)" }
+          };
         }
 
         if (dataset === 'dataset3') {
             x = [d.IDF];
             y = [d.ProfitF];
+
+            var layout3 = {
+                title: "Fixed Amount Betting Strategy",
+                xaxis: { title: "Bet" },
+                yaxis: { title: "Profit ($USD)" }
+              };
         }
 
         if (dataset === 'dataset4') {
-            x = [d.IDF];
-            y = [d.ProfitF];
+            x = [d.IDP];
+            y = [d.ProfitP];
+            
+            var layout4 = {
+                title: "Proportional Betting Strategy",
+                xaxis: { title: "Bet" },
+                yaxis: { title: "Profit ($USD)" }
+              };
         }
     
         // Note the extra brackets around 'x' and 'y'
-        Plotly.restyle("plot", "x", [x]);
-        Plotly.restyle("plot", "y", [y]);
-    
+        Plotly.restyle("plot", "x", [x], layout1);
+        Plotly.restyle("plot", "y", [y], layout1);
+        Plotly.restyle("plot", "x", [x], layout2);
+        Plotly.restyle("plot", "y", [y], layout2);
+        Plotly.restyle("plot", "x", [x], layout3);
+        Plotly.restyle("plot", "y", [y], layout3);
+        Plotly.restyle("plot", "x", [x], layout4);
+        Plotly.restyle("plot", "y", [y], layout4);
+
+
     }
-    
+
     init();
 })
 
