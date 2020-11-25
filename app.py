@@ -1,6 +1,6 @@
 from flask import Flask, render_template, redirect, request
 # import predict_model
-import time
+# import time
 
 # Create an instance of Flask
 app = Flask(__name__)
@@ -12,7 +12,7 @@ def home():
     
 
 @app.route("/jockey")
-def misery():
+def jockeyanalysis():
 
     return render_template("j&t.html")
 

@@ -8,44 +8,42 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand" href="/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
       
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            <li class="nav-item ">
+              <a class="nav-link" href="/">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/jockey">Jockey & Trainer</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/track">Conditions</a>
-            </li>
+                <a class="nav-link active" href="/track">Conditions</a>
+              </li>
             <li class="nav-item">
-              <a class="nav-link" href="/predict">Predictions</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link active" href="/strategies">Betting Strategies</a>
+              <a class="nav-link active" href="/predict">Predictions<span class="sr-only">(current)</span></a>
             </li>
           </ul>
         </div>
       </nav>
     <div class="container">
-      <div class="row">
-        <h1>Horse Racing<br>Dashboard</h1>
-      </div>
-      <div class="row">
-        <div class="img-main md-col-12">
-          <img class="img-thumbnail img-responsive" src="../static/images/ponchoride.jpg" alt="Dog Jockey" link="https://unsplash.com/photos/ilox07iZ5iE" height=650px>
+        <div>
+            <h1>Horse Betting</h1>
         </div>
-      </div>
-
+        <div>
+            <form method="POST">
+                <input name="odds" placeholder="Odds">
+                <input name="bankroll" placeholder="bankroll">
+                <input type="submit">
+            </form>
+        </div>
     </div>
     <script src="https://d3js.org/d3.v5.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
-		<script type="text/javascript" src="../static/js/app.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+	<script type="text/javascript" src="../static/js/app.js"></script>
 </body>
 </html>
