@@ -15,6 +15,11 @@ def home():
 def misery():
 
     return render_template("j&t.html")
+
+@app.route("/track")
+def track():
+
+    return render_template("track.html")
     
 
 # @app.route("/predict")
