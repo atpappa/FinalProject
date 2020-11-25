@@ -24,8 +24,7 @@ def track():
 @app.route("/strategies")
 def track():
 
-    return render_template("strategies.html")
-    
+    return render_template("strategies.html") 
 
 # @app.route("/predict")
 # def stocks():
