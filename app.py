@@ -24,16 +24,16 @@ def track():
 @app.route("/strategies")
 def track():
 
-    return render_template("strategies.html")
-    
-@app.route("/predict")
-def predict():
-    return render_template("predict.html")
+    return render_template("strategies.html") 
 
-@app.route("/predict", methods=['POST'])
-def predict_input():
-    in1 = request.form['odds']
-    in2 = request.form['bankroll']
+# @app.route("/predict")
+# def stocks():
+#     return render_template("stockSearch.html")
+
+# @app.route("/predict", methods=['POST'])
+# def predict_input():
+#     in1 = request.form['odds']
+#     in2 = request.form['bankroll']
 
 @app.route("/home")
 def mainpage():
