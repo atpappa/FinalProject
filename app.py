@@ -1,6 +1,6 @@
 from flask import Flask, render_template, redirect, request
 # import predict_model
-import time
+# import time
 
 # Create an instance of Flask
 app = Flask(__name__)
@@ -12,7 +12,7 @@ def home():
     
 
 @app.route("/jockey")
-def misery():
+def jockeyanalysis():
 
     return render_template("j&t.html")
 
@@ -21,15 +21,14 @@ def track():
 
     return render_template("track.html")
     
+@app.route("/predict")
+def predict():
+    return render_template("predict.html")
 
-# @app.route("/predict")
-# def stocks():
-#     return render_template("stockSearch.html")
-
-# @app.route("/predict", methods=['POST'])
-# def predict_input():
-#     in1 = request.form['odds']
-#     in2 = request.form['bankroll']
+@app.route("/predict", methods=['POST'])
+def predict_input():
+    in1 = request.form['odds']
+    in2 = request.form['bankroll']
 
 @app.route("/home")
 def mainpage():
