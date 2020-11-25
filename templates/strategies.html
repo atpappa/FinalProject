@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Betting Strategies</title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Horse Racing</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="/jockey">Jockey & Trainer</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="/track">Conditions<span class="sr-only">(current)</span</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/strategies">Betting Strategies</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+  <div id="plot"></div>
+
+  <select id="selDataset">
+    <option value="dataset1">1: Bet It All</option>
+    <option value="dataset2">2: Martingale System</option>
+    <option value="dataset2">3: Fixed Amount</option>
+    <option value="dataset2">4: Proportional Betting</option>
+
+  </select>
+
+  <script src="../static/js/strategies.js"></script>
+
+</body>
+
+</html>

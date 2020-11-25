@@ -20,6 +20,11 @@ def jockeyanalysis():
 def track():
 
     return render_template("track.html")
+
+@app.route("/strategies")
+def track():
+
+    return render_template("strategies.html")
     
 @app.route("/predict")
 def predict():
