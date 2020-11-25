@@ -31,6 +31,7 @@ btnj.addEventListener('click', function(){
     // Load data from hours-of-tv-watched.csv
     d3.csv("static/resources/top5jockey.csv").then(function(topData) {
 
+
     console.log(topData);
 
     // Cast the hours value to a number for each piece of tvData
@@ -146,6 +147,7 @@ btnt.addEventListener('click', function(){
 
     // Load data from hours-of-tv-watched.csv
     d3.csv("static/resources/top5trainer.csv").then(function(topData) {
+
 
     console.log(topData);
 
