@@ -1,1 +1,1 @@
-web: gunicorn final-jockey:app
+web: gunicorn app.py:final-jockey
