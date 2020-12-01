@@ -1,6 +1,6 @@
 // Read in the data with d3.csv
 d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
-    // console.log(betData);
+     // console.log(betData);
     csvData = betData
     // Cast the hours value to a number for each piece of betData
     betData.forEach(function (d) {
@@ -49,8 +49,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset1') {
                 var trace1 = {
-                    x: d.IDB,
-                    y: d.ProfitB,
+                    x: [d.IDB],
+                    y: [d.ProfitB],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -75,8 +75,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset2') {
                 var trace2 = {
-                    x: d.IDM,
-                    y: d.ProfitM,
+                    x: [d.IDM],
+                    y: [d.ProfitM],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -101,8 +101,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset3') {
                 var trace3 = {
-                    x: d.IDF,
-                    y: d.ProfitF,
+                    x: [d.IDF],
+                    y: [d.ProfitF],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -128,8 +128,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset4') {
                 var trace4 = {
-                    x: d.IDP,
-                    y: d.ProfitP,
+                    x: [d.OddsP],
+                    y: [d.BankrollP],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -145,8 +145,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
                 var layout4 = {
                     title: "Proportional Betting Strategy",
-                    xaxis: { title: "Bet" },
-                    yaxis: { title: "Profit ($USD)" }
+                    xaxis: { title: "Odds" },
+                    yaxis: { title: "Bankroll ($USD)" }
                 };
     
                 Plotly.newPlot("plot", data4, layout4);
