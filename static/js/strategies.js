@@ -1,9 +1,9 @@
 // Read in the data with d3.csv
-d3.csv("../../Resources/combined_strategies.csv").then(function(betData) {
+d3.csv("static/resources/combined_strategies.csv").then(function(betData) {
 
 console.log(betData);
 
-// Cast the hours value to a number for each piece of tvData
+// Cast the hours value to a number for each piece of betData
 betData.forEach(function(d) {
     d.ProfitB = +d.ProfitB;
     d.ProfitP = +d.ProfitP;
