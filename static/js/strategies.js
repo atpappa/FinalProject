@@ -1,37 +1,20 @@
 // Read in the data with d3.csv
 d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
-    // console.log(betData);
+     console.log(betData);
+
+    betData.forEach(d => {
+        d.IDB = +d.IDB;      
+        d.IDF = +d.IDF;      
+        d.IDM = +d.IDM;      
+        d.ProfitB = +d.ProfitB;      
+        d.ProfitF = +d.ProfitF;
+        d.ProfitM = +d.ProfitM;
+        d.OddsP = +d.OddsP;
+        d.BankrollP = +d.BankrollP;
+    });
     csvData = betData
-    // Cast the hours value to a number for each piece of betData
-    betData.forEach(function (d) {
 
-        // Initializes the page with a default plot
-        function init() {
-            var trace1 = {
-                x: [d.IDB],
-                y: [d.ProfitB],
-                mode: 'lines+markers',
-                marker: {
-                    color: 'rgb(128, 0, 128)',
-                    size: 8
-                  },
-                  line: {
-                    color: 'rgb(128, 0, 128)',
-                    width: 1
-                  }
-                };
-          
-            var data1 = [trace1];
-
-            var layout1 = {
-                title: "Betting It All Strategy",
-                xaxis: { title: "Bet" },
-                yaxis: { title: "Profit ($USD)" }
-            };
-
-            Plotly.newPlot("plot", data1, layout1);
-
-        }
+    updatePlotly();
 
         // Call updatePlotly() when a change takes place to the DOM
         d3.selectAll("#selDataset").on("change", updatePlotly);
@@ -49,8 +32,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset1') {
                 var trace1 = {
-                    x: [d.IDB],
-                    y: [d.ProfitB],
+                    x: betData.map(d=>d.IDB),
+                    y: betData.map(d=>d.ProfitB),
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -75,8 +58,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset2') {
                 var trace2 = {
-                    x: [d.IDM],
-                    y: [d.ProfitM],
+                    x: betData.map(b=>b.IDM),
+                    y: betData.map(d=>d.ProfitM),
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -101,8 +84,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset3') {
                 var trace3 = {
-                    x: [d.IDF],
-                    y: [d.ProfitF],
+                    x: betData.map(d=>d.IDF),
+                    y: betData.map(d=>d.ProfitF),
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -128,8 +111,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset4') {
                 var trace4 = {
-                    x: [d.IDP],
-                    y: [d.ProfitP],
+                    x: betData.map(d=>d.OddsP),
+                    y: betData.map(d=>d.BankrollP),
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -145,14 +128,12 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
                 var layout4 = {
                     title: "Proportional Betting Strategy",
-                    xaxis: { title: "Bet" },
-                    yaxis: { title: "Profit ($USD)" }
+                    xaxis: { title: "Odds" },
+                    yaxis: { title: "Bankroll ($USD)" }
                 };
     
                 Plotly.newPlot("plot", data4, layout4);
             }
 
         }
-        init();
     });
-});
