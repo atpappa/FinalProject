@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 
-# Create an instance of Flask
+# Create an instance of Flask.
 app = Flask(__name__)
 
 @app.route("/")
