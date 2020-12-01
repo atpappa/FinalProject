@@ -2,56 +2,65 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Horse Racing</title>
+    <title>Predictions</title>
     <link rel="stylesheet" href="static/css/style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="/">Navbar</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item ">
-              <a class="nav-link" href="/">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/jockey">Jockey & Trainer</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/track">Conditions</a>
-              </li>
-            <li class="nav-item">
-              <a class="nav-link active" href="/predict">Predictions<span class="sr-only">(current)</span></a>
-            </li>
-          </ul>
-        </div>
-      </nav>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/jockey">Jockey & Trainer</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/track">Conditions</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="/predict">Predictions <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/strategies">Betting Strategies</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
     <div class="container">
         <div>
             <h1>Horse Betting</h1>
         </div>
-        <div class="row">
-            <div class="md-col-7">
-              <form method="POST">
-                  <span title="Input betting odds here!"><input name="odds" placeholder="Odds"></span>
-                  <span title="Input how much you want to bet here!"><input name="bankroll" placeholder="Bet"></span>
-                  <input type="submit">
-              </form>
-            </div>
-            <div class="img md-col-5">
-              <img class="img-thumbnail img-responsive" src="../static/images/ponchofood.jpg" alt="Dog Jockey" link="https://unsplash.com/photos/ilox07iZ5iE" height=300px>
-            </div>
+        <div>
+          <form method="POST">
+              <span title="Input betting odds here!"><input name="odds" placeholder="Odds"></span>
+              <span title="Input how much you want to bet here!"><input name="bankroll" placeholder="Bet"></span>
+              <input type="submit">
+          </form>
         </div>
+            
+        
         <div>
           <h3>Expected Return: {{ formData.output }}</h3>
           <ul>
             <li>Odds: This is the betting odds</li>
             <li>Bet: How much you bet each race</li>
           </ul>
+        </div>
+        <div class="row">
+          <div class="img md-col-3">
+            <img class="img-thumbnail img-responsive" src="../static/images/ponchofood.jpg" alt="Dog Food" width=200px>
+          </div>
+          <div class="md-col-6">
+            <p>Odds in betting are determined by a Losses/Wins ratio. The higher the odds, the less likely a winning outcome. Betting profit is given by (bet)*(odds), thus higher odds yields greater reward.</p>
+            <p>The Expected Return can be thought of as the expected profit each game over time. You may not get see profit a few games in a row, but it is 'expected' to average out to the expected return value when using the same odds and bet each race.</p>
+          </div>
         </div>
     </div>
     <script src="https://d3js.org/d3.v5.min.js"></script>
