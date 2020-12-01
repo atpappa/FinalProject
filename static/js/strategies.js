@@ -49,8 +49,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset1') {
                 var trace1 = {
-                    x: d.IDB,
-                    y: d.ProfitB,
+                    x: [d.IDB],
+                    y: [d.ProfitB],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -75,8 +75,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset2') {
                 var trace2 = {
-                    x: d.IDM,
-                    y: d.ProfitM,
+                    x: [d.IDM],
+                    y: [d.ProfitM],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -101,8 +101,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset3') {
                 var trace3 = {
-                    x: d.IDF,
-                    y: d.ProfitF,
+                    x: [d.IDF],
+                    y: [d.ProfitF],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -128,8 +128,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset4') {
                 var trace4 = {
-                    x: d.IDP,
-                    y: d.ProfitP,
+                    x: [d.IDP],
+                    y: [d.ProfitP],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
