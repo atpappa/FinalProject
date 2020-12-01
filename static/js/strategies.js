@@ -1,37 +1,39 @@
+function init() {
+
 // Read in the data with d3.csv
 d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
      // console.log(betData);
     csvData = betData
-    // Cast the hours value to a number for each piece of betData
-    betData.forEach(function (d) {
+    // // denote betData as d in a function
+    // betData.forEach(function (d) {
 
-        // Initializes the page with a default plot
-        function init() {
-            var trace1 = {
-                x: [d.IDB],
-                y: [d.ProfitB],
-                mode: 'lines+markers',
-                marker: {
-                    color: 'rgb(128, 0, 128)',
-                    size: 8
-                  },
-                  line: {
-                    color: 'rgb(128, 0, 128)',
-                    width: 1
-                  }
-                };
+    //     // Initializes the page with a default plot
+    //     function init() {
+    //         var trace1 = {
+    //             x: [d.IDB],
+    //             y: [d.ProfitB],
+    //             mode: 'lines+markers',
+    //             marker: {
+    //                 color: 'rgb(128, 0, 128)',
+    //                 size: 8
+    //               },
+    //               line: {
+    //                 color: 'rgb(128, 0, 128)',
+    //                 width: 1
+    //               }
+    //             };
           
-            var data1 = [trace1];
+    //         var data1 = [trace1];
 
-            var layout1 = {
-                title: "Betting It All Strategy",
-                xaxis: { title: "Bet" },
-                yaxis: { title: "Profit ($USD)" }
-            };
+    //         var layout1 = {
+    //             title: "Betting It All Strategy",
+    //             xaxis: { title: "Bet" },
+    //             yaxis: { title: "Profit ($USD)" }
+    //         };
 
-            Plotly.newPlot("plot", data1, layout1);
+    //         Plotly.newPlot("plot", data1, layout1);
 
-        }
+    //     }
 
         // Call updatePlotly() when a change takes place to the DOM
         d3.selectAll("#selDataset").on("change", updatePlotly);
@@ -49,8 +51,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset1') {
                 var trace1 = {
-                    x: [d.IDB],
-                    y: [d.ProfitB],
+                    x: [betData.IDB],
+                    y: [betData.ProfitB],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -75,8 +77,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset2') {
                 var trace2 = {
-                    x: [d.IDM],
-                    y: [d.ProfitM],
+                    x: [betData.IDM],
+                    y: [betData.ProfitM],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -101,8 +103,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset3') {
                 var trace3 = {
-                    x: [d.IDF],
-                    y: [d.ProfitF],
+                    x: [betData.IDF],
+                    y: [betData.ProfitF],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -128,8 +130,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset4') {
                 var trace4 = {
-                    x: [d.OddsP],
-                    y: [d.BankrollP],
+                    x: [betData.OddsP],
+                    y: [betData.BankrollP],
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
