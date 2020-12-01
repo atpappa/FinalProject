@@ -22,7 +22,7 @@ def track():
     return render_template("track.html")
 
 @app.route("/strategies")
-def track():
+def strategies():
 
     return render_template("strategies.html") 
 
