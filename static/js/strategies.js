@@ -29,4 +29,3 @@ ProptionalWButton.on("click", function() {
 MartingaleButton.on("click", function() {
   d3.select(".bar").html(`<img src=${MartingaleBar} alt='...'>`);
 });
-
