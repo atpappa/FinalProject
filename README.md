@@ -39,8 +39,8 @@ After running our data through these four simulations, it was found that the Pro
 
 Horse Racing has many factors that contribute to the outcome of the race, and some that we investigated were Track and Weather Conditions, the accumulation of wins a Jockey and Trainer had, and how those corresponding with race outcomes and betting odds. The figures below show that from the Triple Crown data we interpreted, sloppy and fast track conditions resulted in higher amounts of wins; showery and cloudy weather conditions increased the chances of race wins with higher odds. 
 
-![Track Conditions](static/images/Sheet 7.png)  
-![Weather Conditions](static/images/Sheet 6.png)
+![Track Conditions](static/images/Sheet7.png)  
+![Weather Conditions](static/images/Sheet6.png)
   
 ## Machine Model
 Developed a Support Vector Machine (SVM) linear classifier model within Pandas (Python) to determine if the odds of a horse can predict a win or loss.  An estimated profit was determined from the odds assigned to each horse and if it won.  If the horse loses, its calculated profit is the loss of the initial bet.  In this case, we used $1000 for each horse.  A negative profit (-$1000) would be a loss while a positive profit ($1000 x odds multiplier) would be a win.
