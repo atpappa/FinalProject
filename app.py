@@ -11,15 +11,15 @@ def home():
     return render_template("index.html")
     
 
-# @app.route("/jockey")
-# def jockeyanalysis():
+@app.route("/jockey")
+def jockeyanalysis():
 
-#     return render_template("j&t.html")
+    return render_template("j&t.html")
 
-# @app.route("/track")
-# def track():
+@app.route("/track")
+def track():
 
-#     return render_template("track.html")
+    return render_template("track.html")
 
 # @app.route("/strategies")
 # def strategies():
@@ -35,9 +35,9 @@ def home():
 # #     in1 = request.form['odds']
 # #     in2 = request.form['bankroll']
 
-# @app.route("/home")
-# def mainpage():
-#     return redirect("/")
+@app.route("/home")
+def mainpage():
+    return redirect("/")
 
 if __name__ == "__main__":
     app.run(debug=True)
