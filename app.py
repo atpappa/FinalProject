@@ -23,7 +23,6 @@ def track():
 
     return render_template("track.html")
 
-<<<<<<< HEAD
 # @app.route("/strategies")
 # def strats():
 
@@ -52,21 +51,6 @@ def predictInput():
     return render_template("predict.html", formData=formData)
 
 
-=======
-# @app.route("/strategies")
-# def strategies():
-
-#     return render_template("strategies.html") 
-
-# # @app.route("/predict")
-# # def stocks():
-# #     return render_template("stockSearch.html")
-
-# # @app.route("/predict", methods=['POST'])
-# # def predict_input():
-# #     in1 = request.form['odds']
-# #     in2 = request.form['bankroll']
->>>>>>> d8002de2eff53c04190cb18cf7289770318d73e6
 
 @app.route("/home")
 def mainpage():
