@@ -1,9 +1,21 @@
-function init() {
-
 // Read in the data with d3.csv
 d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
-     // console.log(betData);
+     console.log(betData);
+
+    betData.forEach(d => {
+        d.IDB = +d.IDB;      
+        d.IDF = +d.IDF;      
+        d.IDM = +d.IDM;      
+        d.ProfitB = +d.ProfitB;      
+        d.ProfitF = +d.ProfitF;
+        d.ProfitM = +d.ProfitM;
+        d.OddsP = +d.OddsP;
+        d.BankrollP = +d.BankrollP;
+    });
     csvData = betData
+
+    updatePlotly();
+
     // // denote betData as d in a function
     // betData.forEach(function (d) {
 
@@ -51,8 +63,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset1') {
                 var trace1 = {
-                    x: [betData.IDB],
-                    y: [betData.ProfitB],
+                    x: betData.map(d=>d.IDB),
+                    y: betData.map(d=>d.ProfitB),
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -77,8 +89,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset2') {
                 var trace2 = {
-                    x: [betData.IDM],
-                    y: [betData.ProfitM],
+                    x: betData.map(b=>b.IDM),
+                    y: betData.map(d=>d.ProfitM),
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -103,8 +115,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset3') {
                 var trace3 = {
-                    x: [betData.IDF],
-                    y: [betData.ProfitF],
+                    x: betData.map(d=>d.IDF),
+                    y: betData.map(d=>d.ProfitF),
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -130,8 +142,8 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
 
             if (dataset === 'dataset4') {
                 var trace4 = {
-                    x: [betData.OddsP],
-                    y: [betData.BankrollP],
+                    x: betData.map(d=>d.OddsP),
+                    y: betData.map(d=>d.BankrollP),
                     mode: 'lines+markers',
                     marker: {
                         color: 'rgb(128, 0, 128)',
@@ -155,6 +167,5 @@ d3.csv("static/resources/combined_strategies.csv").then(function (betData) {
             }
 
         }
-        init();
+        // init();
     });
-});
