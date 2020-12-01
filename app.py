@@ -23,13 +23,8 @@ def track():
 
     return render_template("track.html")
 
-<<<<<<< HEAD
-# @app.route("/strategies")
-# def strats():
-=======
 @app.route("/strategies")
 def strategies():
->>>>>>> f16c20cfe4be96f385c815e9c7525653bd05b972
 
 
     return render_template("strategies.html")
@@ -57,10 +52,6 @@ def predictInput():
     return render_template("predict.html", formData=formData)
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> f16c20cfe4be96f385c815e9c7525653bd05b972
 @app.route("/home")
 def mainpage():
     return redirect("/")
