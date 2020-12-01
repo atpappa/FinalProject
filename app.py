@@ -24,7 +24,8 @@ def track():
     return render_template("track.html")
 
 @app.route("/strategies")
-def strats():
+def strategies():
+
 
     return render_template("strategies.html")
     
