@@ -24,10 +24,10 @@ def track():
     return render_template("track.html")
 
 <<<<<<< HEAD
-@app.route("/strategies")
-def strats():
+# @app.route("/strategies")
+# def strats():
 
-    return render_template("strategies.html")
+#     return render_template("strategies.html")
     
 @app.route("/predict")
 def predict():
