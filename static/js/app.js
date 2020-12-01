@@ -196,7 +196,7 @@ btnt.addEventListener('click', function(){
       times placed`);
     });
 
-    // Step 2: Create the tooltip in chartGroup.
+    // Step 2: Create the tooltip in chartGroup
     chartGroup.call(toolTip);
 
     // Create one SVG rectangle per piece of tvData
