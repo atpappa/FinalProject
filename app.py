@@ -23,11 +23,11 @@ def track():
 
     return render_template("track.html")
 
-# @app.route("/strategies")
-# def strategies():
+@app.route("/strategies")
+def strategies():
 
 
-#     return render_template("strategies.html")
+    return render_template("strategies.html")
     
 @app.route("/predict")
 def predict():
