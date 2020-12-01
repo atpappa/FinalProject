@@ -26,6 +26,7 @@ def track():
 @app.route("/strategies")
 def strats():
 
+
     return render_template("strategies.html")
     
 @app.route("/predict")
