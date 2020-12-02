@@ -1,0 +1,628 @@
+final_place,PP,Horse,Jockey,Trainer,Odds,Win,Place,Show,year,race
+1,10,Giacomo,Mike Smith,John Shirreffs,51.0,102.6,45.8,19.8,2005,Kentucky Derby
+2,18,Closing Argument,Cornelio Velasquez,Kiaran McLaughlin,72.0,0.0,70.0,24.8,2005,Kentucky Derby
+3,12,Afleet Alex,J Rose,Tim Ritchey,5.5,0.0,0.0,4.6,2005,Kentucky Derby
+4,17,Don't Get Mad,T C Baze,Ronald Ellis,30.0,0.0,0.0,0.0,2005,Kentucky Derby
+5,20,Buzzards Bay,Mark Guidry,Jeff Mullins,47.0,0.0,0.0,0.0,2005,Kentucky Derby
+6,14,Wilko,Corey Nakatani,Craig Dollase,22.0,0.0,0.0,0.0,2005,Kentucky Derby
+7,16,Bellamy Road,J J Castellano,Nick Zito,3.5,0.0,0.0,0.0,2005,Kentucky Derby
+8,2,Andromeda's Hero,Rafael Bejarano,Nick Zito,58.0,0.0,0.0,0.0,2005,Kentucky Derby
+9,7,Flower Alley,Jorge Chavez,Todd Pletcher,42.0,0.0,0.0,0.0,2005,Kentucky Derby
+10,11,High Fly,J.D. Bailey,Nick Zito,8.0,0.0,0.0,0.0,2005,Kentucky Derby
+11,9,Greeley's Galaxy,Kent Desormeaux,Warren Stute,22.0,0.0,0.0,0.0,2005,Kentucky Derby
+12,5,Coin Silver,P A Valenzuela,Todd Pletcher,39.0,0.0,0.0,0.0,2005,Kentucky Derby
+13,8,Greater Good,J. McKee,Robert Holthus,59.0,0.0,0.0,0.0,2005,Kentucky Derby
+14,4,Noble Causeway,Gary Stevens,Nick Zito,13.0,0.0,0.0,0.0,2005,Kentucky Derby
+15,3,Sun King,Edgar Prado,Nick Zito,16.0,0.0,0.0,0.0,2005,Kentucky Derby
+16,13,Spanish Chestnut,Joe Bravo,Patrick Biancone,72.0,0.0,0.0,0.0,2005,Kentucky Derby
+17,1,Sort it out,Brice Blanc,Bob Baffert,63.0,0.0,0.0,0.0,2005,Kentucky Derby
+18,19,Going Wild,J Valdivia,D. Wayne Lukas,60.0,0.0,0.0,0.0,2005,Kentucky Derby
+19,15,Bandini,J R Velazquez,Todd Pletcher,8.0,0.0,0.0,0.0,2005,Kentucky Derby
+20,6,High Limit,Ramon Dominguez,Robert Frankel,23.0,0.0,0.0,0.0,2005,Kentucky Derby
+1,8,Barbaro,Edgar Prado,Michael Matz,7.0,14.2,8.0,6.0,2006,Kentucky Derby
+2,13,Bluegrass Cat,Ramon Dominguez,Todd Pletcher,31.0,0.0,28.4,15.4,2006,Kentucky Derby
+3,2,Steppenwolfer,Robby Albarado,Danny Peitz,31.0,0.0,0.0,7.8,2006,Kentucky Derby
+4,*1,Jazil,Fernando Jara,Kiaran McLaughlin,31.0,0.0,0.0,0.0,2006,Kentucky Derby
+5,*18,Brother Derek,Alex Solis,Dan Hendricks,4.0,0.0,0.0,0.0,2006,Kentucky Derby
+6,6,Showing Up,Cornelio Velasquez,Barclay Tagg,21.0,0.0,0.0,0.0,2006,Kentucky Derby
+7,11,Sweetnorthernsaint,Kent Desormeaux,Michael Trombetta,11.0,0.0,0.0,0.0,2006,Kentucky Derby
+8,14,Deputy Glitters,Jose Lezcano,Tom Albertrani,51.0,0.0,0.0,0.0,2006,Kentucky Derby
+9,5,Point Determined,Rafael Bejarano,Bob Baffert,13.0,0.0,0.0,0.0,2006,Kentucky Derby
+10,15,Seaside Retreat,Patrick Husbands,Mark Casse,51.0,0.0,0.0,0.0,2006,Kentucky Derby
+11,19,Storm Treasure,David Flores,Steve Asmussen,51.0,0.0,0.0,0.0,2006,Kentucky Derby
+12,17,Lawyer Ron,John McKee,Robert Holthus,5.0,0.0,0.0,0.0,2006,Kentucky Derby
+13,16,Cause to Believe,Russell Baze,Jerry Hollendorfer,51.0,0.0,0.0,0.0,2006,Kentucky Derby
+14,20,Flashy Bull,Mike Smith,Kiaran McLaughlin,51.0,0.0,0.0,0.0,2006,Kentucky Derby
+15,12,Private Vow,Shaun Bridgmohan,Steve Asmussen,51.0,0.0,0.0,0.0,2006,Kentucky Derby
+16,4,Sinister Minister,Victor Espinoza,Bob Baffert,13.0,0.0,0.0,0.0,2006,Kentucky Derby
+17,7,Bob and John,Garrett Gomez,Bob Baffert,13.0,0.0,0.0,0.0,2006,Kentucky Derby
+18,10,A.P. Warrior,Corey Nakatani,John Shirreffs,16.0,0.0,0.0,0.0,2006,Kentucky Derby
+19,9,Sharp Humor,Mark Guidry,Dale Romans,21.0,0.0,0.0,0.0,2006,Kentucky Derby
+20,3,Keyed Entry,Pat Valenzuela,Todd Pletcher,31.0,0.0,0.0,0.0,2006,Kentucky Derby
+1,7,Street Sense,Calvin Borel,Carl Nafzger,5.0,11.8,6.4,4.6,2007,Kentucky Derby
+2,8,Hard Spun,Mario Pino,Larry Jones,16.0,0.0,9.8,7.0,2007,Kentucky Derby
+3,2,Curlin,Robby Albarado,Steve Asmussen,4.5,0.0,0.0,5.6,2007,Kentucky Derby
+4,5,Imawildandcrazyguy,Juan Leyva,William Kaplan,51.0,0.0,0.0,0.0,2007,Kentucky Derby
+5,1,Sedgefield,Julien Leparoux,Darrin Miller,51.0,0.0,0.0,0.0,2007,Kentucky Derby
+6,16,Circular Quay,John Velasquez,Todd Pletcher,9.0,0.0,0.0,0.0,2007,Kentucky Derby
+7,15,Tiago,Mike Smith,John Shirreffs,16.0,0.0,0.0,0.0,2007,Kentucky Derby
+8,18,Any Given Sunday,Garrett Gomez,Todd Pletcher,13.0,0.0,0.0,0.0,2007,Kentucky Derby
+9,13,Sam P.,Ramon Dominguez,Todd Pletcher,21.0,0.0,0.0,0.0,2007,Kentucky Derby
+10,12,Nobiz Like Shobiz,Cornelio Velasquez,Barclay Tagg,9.0,0.0,0.0,0.0,2007,Kentucky Derby
+11,19,Dominican,Rafael Bejarano,Darrin Miller,21.0,0.0,0.0,0.0,2007,Kentucky Derby
+12,3,Zanjero,Shaun Bridgmohan,Steve Asmussen,31.0,0.0,0.0,0.0,2007,Kentucky Derby
+13,20,Great Hunter,Corey Nakatani,Doug O'Neill,16.0,0.0,0.0,0.0,2007,Kentucky Derby
+14,9,Liquidity,David Flores,Doug O'Neill,31.0,0.0,0.0,0.0,2007,Kentucky Derby
+15,11,Bwana Bull,Javier Castellano,Jerry Hollendorfer,51.0,0.0,0.0,0.0,2007,Kentucky Derby
+16,4,Storm in May,Kent Desormeaux,William Kaplan,31.0,0.0,0.0,0.0,2007,Kentucky Derby
+17,10,Teuflesberg,Stewart Elliot,Jamie Sanders,31.0,0.0,0.0,0.0,2007,Kentucky Derby
+18,14,Scat Daddy,Edgar Prado,Todd Pletcher,11.0,0.0,0.0,0.0,2007,Kentucky Derby
+19,17,Stormello,Kent Desormeaux,William Currin,31.0,0.0,0.0,0.0,2007,Kentucky Derby
+20,6,Cowtown Cat,Fernando Jara,Todd Pletcher,21.0,0.0,0.0,0.0,2007,Kentucky Derby
+1,20,Big Brown,Kent Desormeaux,"Richard Dutrow, Jr.",4.5,6.8,5.0,4.8,2008,Kentucky Derby
+2,5,Eight Belles,Gabriel Saez,Larry Jones,9.0,0.0,10.6,6.4,2008,Kentucky Derby
+3,16,Denis of Cork,Calvin Borel,David Carroll,28.0,0.0,0.0,11.6,2008,Kentucky Derby
+4,4,Tale of Ekati,Eibar Coa,Barclay Tagg,46.0,0.0,0.0,0.0,2008,Kentucky Derby
+5,5,Recapturetheglory,E. T. Baird,Louie J. Roussel III,48.0,0.0,0.0,0.0,2008,Kentucky Derby
+6,6,Colonel John,Corey Nakatani,Eoin Harty,5.0,0.0,0.0,0.0,2008,Kentucky Derby
+7,7,Anak Nakal,Rafael Bejarano,Nick Zito,58.0,0.0,0.0,0.0,2008,Kentucky Derby
+8,8,Pyro,Shaun Bridgmohan,Steve Asmussen,6.0,0.0,0.0,0.0,2008,Kentucky Derby
+9,9,Cowboy Cal,John Velazquez,Todd Pletcher,43.0,0.0,0.0,0.0,2008,Kentucky Derby
+10,10,Z Fortune,Robby Albarado,Steve Asmussen,18.0,0.0,0.0,0.0,2008,Kentucky Derby
+11,11,Smooth Air,Manoel Cruz,Bennie Stutts Jr.,41.0,0.0,0.0,0.0,2008,Kentucky Derby
+12,12,Visionaire,Jose Lezcano,Michael Matz,23.0,0.0,0.0,0.0,2008,Kentucky Derby
+13,13,Court Vision,Garrett Gomez,Bill Mott,15.0,0.0,0.0,0.0,2008,Kentucky Derby
+14,14,Z Humor,Rene Douglas,Bill Mott,68.0,0.0,0.0,0.0,2008,Kentucky Derby
+15,15,Cool Coal Man,Julien Leparoux,Nick Zito,37.0,0.0,0.0,0.0,2008,Kentucky Derby
+16,16,Bob Black Jack,Richard Migliore,James Kasparoff,27.0,0.0,0.0,0.0,2008,Kentucky Derby
+17,17,Gayego,Mike Smith,Paulo Lobo,22.0,0.0,0.0,0.0,2008,Kentucky Derby
+18,18,Big Truck,Elbar Coa,Barclay Tagg,21.0,0.0,0.0,0.0,2008,Kentucky Derby
+19,19,Adriano,Edgar Prado,Graham Motion,25.0,0.0,0.0,0.0,2008,Kentucky Derby
+20,20,Monba,Ramon Dominguez,Todd Pletcher,31.0,0.0,0.0,0.0,2008,Kentucky Derby
+1,8,Mine that Bird,Calvin Borel,Bennie Wooley Jr.,51.0,103.2,54.0,25.8,2009,Kentucky Derby
+2,16,Pioneerof theNile,Garrett Gomez,Bob Baffert,5.0,0.0,8.4,6.4,2009,Kentucky Derby
+3,2,Musket Man,Eibar Coa,Derek Ryan,21.0,0.0,0.0,12.0,2009,Kentucky Derby
+4,7,Papa Clem,Rafael Bejarano,Gary Stute,21.0,0.0,0.0,0.0,2009,Kentucky Derby
+5,11,Chocolate Candy,Mike Smith,Jerry Hollendorfer,21.0,0.0,0.0,0.0,2009,Kentucky Derby
+6,17,Summer Bird,Chris Rosier,Tim Ice,51.0,0.0,0.0,0.0,2009,Kentucky Derby
+7,9,Join in the Dance,Chris DeCarlo,Todd Pletcher,51.0,0.0,0.0,0.0,2009,Kentucky Derby
+8,10,Regal Ransom,Alan Garcia,Saeed bin Suroor,31.0,0.0,0.0,0.0,2009,Kentucky Derby
+9,1,West Side Bernie,Stewart Elliot,Kelly Breen,31.0,0.0,0.0,0.0,2009,Kentucky Derby
+10,12,General Quarters,Julien Leparoux,Thomas R. McCarthy,21.0,0.0,0.0,0.0,2009,Kentucky Derby
+11,15,Dunkirk,Edgar Prado,Todd Pletcher,5.0,0.0,0.0,0.0,2009,Kentucky Derby
+12,5,Hold Me Back,Kent Desormeaux,Bill Mott,16.0,0.0,0.0,0.0,2009,Kentucky Derby
+13,4,Advice,Rene Douglas,Todd Pletcher,31.0,0.0,0.0,0.0,2009,Kentucky Derby
+14,19,Desert Party,Ramon Dominguez,Saeed bin Suroor,16.0,0.0,0.0,0.0,2009,Kentucky Derby
+15,3,Mr. Hot Stuff,John Velazquez,Eoin Harty,31.0,0.0,0.0,0.0,2009,Kentucky Derby
+16,14,Atomic Rain,Joe Bravo,Kelly Breen,51.0,0.0,0.0,0.0,2009,Kentucky Derby
+17,18,Nowhere to Hide,Shaun Bridgmohan,Nick Zito,51.0,0.0,0.0,0.0,2009,Kentucky Derby
+18,6,Friesan Fire,Gabriel Saez,Larry Jones,6.0,0.0,0.0,0.0,2009,Kentucky Derby
+19,20,Flying Private,Robby Albarado,D. Wayne Lukas,51.0,0.0,0.0,0.0,2009,Kentucky Derby
+1,4,Super Saver,Calvin Borel,Todd Pletcher,9.0,18.0,8.8,6.6,2010,Kentucky Derby
+2,2,Ice Box,Jose Lezcano,Nick Zito,12.0,0.0,11.2,8.0,2010,Kentucky Derby
+3,10,Paddy O'Prado,Kent Desormeaux,Dale Romans,13.0,0.0,0.0,7.4,2010,Kentucky Derby
+4,9,Make Music for Me,Joel Rosario,Alexis Barba,31.0,0.0,0.0,0.0,2010,Kentucky Derby
+5,3,Noble's Promise,Willie Martinez,Kenny McPeek,25.0,0.0,0.0,0.0,2010,Kentucky Derby
+6,1,Lookin At Lucky,Garrett Gomez,Bob Baffert,7.0,0.0,0.0,0.0,2010,Kentucky Derby
+7,17,Dublin,Terry Thompson,D. Wayne Lukas,21.0,0.0,0.0,0.0,2010,Kentucky Derby
+8,6,Statley Victor,Alan Garcia,Mike Maker,21.0,0.0,0.0,0.0,2010,Kentucky Derby
+9,14,Mission Impazible,Rajiv Maragh,Todd Pletcher,17.0,0.0,0.0,0.0,2010,Kentucky Derby
+10,11,Devil May Care,John Velazquez,Todd Pletcher,11.0,0.0,0.0,0.0,2010,Kentucky Derby
+11,7,American Lion,David Flores,Eoin Harty,24.0,0.0,0.0,0.0,2010,Kentucky Derby
+12,13,Jackson Bend,Mike Smith,Nick Zito,24.0,0.0,0.0,0.0,2010,Kentucky Derby
+13,15,Discreetly Mine,Javier Castellano,Todd Pletcher,32.0,0.0,0.0,0.0,2010,Kentucky Derby
+14,8,Dean's Kitten,Robby Albarado,Michael Maker,26.0,0.0,0.0,0.0,2010,Kentucky Derby
+15,12,Conveyance,Martin Garcia,Bob Baffert,28.0,0.0,0.0,0.0,2010,Kentucky Derby
+16,19,Homeboykris,Ramon Dominguez,"Richard Dutrow, Jr.",28.0,0.0,0.0,0.0,2010,Kentucky Derby
+17,20,Sidney's Candy,Joe Talamo,John Sadler,10.0,0.0,0.0,0.0,2010,Kentucky Derby
+18,5,Line of David,Rafael Bejarano,John Sadler,20.0,0.0,0.0,0.0,2010,Kentucky Derby
+19,16,Awesome Act,Julien Leparoux,Jeremy Noseda,12.0,0.0,0.0,0.0,2010,Kentucky Derby
+20,18,Backtalk,Miguel Mena,Tom Amoss,24.0,0.0,0.0,0.0,2010,Kentucky Derby
+1,16,Animal Kingdom,John Velazquez,Graham Motion,21.0,43.8,19.6,13.0,2011,Kentucky Derby
+2,19,Nehro,Cory Nakatani,Steve Asmussen,10.0,0.0,8.8,6.4,2011,Kentucky Derby
+3,13,Mucho Macho Man,Rajiv Maragh,Kathy Ritvo,10.0,0.0,0.0,7.0,2011,Kentucky Derby
+4,14,Shackleford,Jesus Castanon,Dale Romans,24.0,0.0,0.0,0.0,2011,Kentucky Derby
+5,11,Master of Hounds,Garret Gomez,Aidan O'Brien,17.0,0.0,0.0,0.0,2011,Kentucky Derby
+6,12,Santiva,Shaun Bridgmohan,Eddie Kenneally,34.0,0.0,0.0,0.0,2011,Kentucky Derby
+7,2,Brilliant Speed,Joel Roasario,Tom Albertrani,28.0,0.0,0.0,0.0,2011,Kentucky Derby
+8,8,Dialed In,Julien Leparoux,Nick Zito,6.0,0.0,0.0,0.0,2011,Kentucky Derby
+9,7,Pants on Fire,Rosie Napravnik,Kelly Breen,8.0,0.0,0.0,0.0,2011,Kentucky Derby
+10,3,Twice the Appeal,Calvin Borel,J. Bonde,12.0,0.0,0.0,0.0,2011,Kentucky Derby
+11,17,Soldat,Alan Garcia,Kiaran McLaughlin,15.0,0.0,0.0,0.0,2011,Kentucky Derby
+12,4,Stay Thirsty,Ramon Dominguez,Todd Pletcher,17.0,0.0,0.0,0.0,2011,Kentucky Derby
+13,9,Derby Kitten,Jose Castellano,Ken Ramsey,36.0,0.0,0.0,0.0,2011,Kentucky Derby
+14,5,Decisive Moment,Kirwin Clark,Juan Arias,39.0,0.0,0.0,0.0,2011,Kentucky Derby
+15,1,Archarcharch,John Court,Jinks Fires,14.0,0.0,0.0,0.0,2011,Kentucky Derby
+16,15,Midnight Interlude,Victor Espinoza,Bob Baffert,10.0,0.0,0.0,0.0,2011,Kentucky Derby
+17,10,Twinspired,Mike Smith,Mike Maker,32.0,0.0,0.0,0.0,2011,Kentucky Derby
+18,20,Watch Me Go,Rafael Bejarano,Kathleen O'Connell,33.0,0.0,0.0,0.0,2011,Kentucky Derby
+19,6,Comma to the Top,Pat Valenzuela,Peter Miller,35.0,0.0,0.0,0.0,2011,Kentucky Derby
+20,18,Uncle Mo,John Velazquez,Todd Pletcher,,0.0,0.0,0.0,2011,Kentucky Derby
+1,19,I'll Have Another,Mario Gutierrez,Doug O'Neill,16.0,32.6,19.8,9.6,2012,Kentucky Derby
+2,6,Bodemeister,Mike Smith,Bob Baffert,5.0,0.0,6.2,5.6,2012,Kentucky Derby
+3,5,Dullahan,Kent Desormeaux,Dale Romans,13.0,0.0,0.0,7.2,2012,Kentucky Derby
+4,13,Went The Day Well,John Velazquez,H. Graham Motion,31.0,0.0,0.0,0.0,2012,Kentucky Derby
+5,8,Creative Cause,Joel Rosario,Mike Harrington,13.0,0.0,0.0,0.0,2012,Kentucky Derby
+6,20,Liaison,Martin Garcia,Bob Baffert,57.0,0.0,0.0,0.0,2012,Kentucky Derby
+7,4,Union Rags,Julien Leparoux,Michael Matz,6.0,0.0,0.0,0.0,2012,Kentucky Derby
+8,7,Rousing Sermon,Jose Lezcano,Jerry Hollendorfer,41.0,0.0,0.0,0.0,2012,Kentucky Derby
+9,14,Hansen,Ramon Dominguez,Mike Maker,14.0,0.0,0.0,0.0,2012,Kentucky Derby
+10,10,Daddy Nose Best,Garrett Gomez,Steve Asmussen,15.0,0.0,0.0,0.0,2012,Kentucky Derby
+11,2,Optimizer,Jon Court,D. Wayne Lukas,43.0,0.0,0.0,0.0,2012,Kentucky Derby
+12,11,Alpha,Alan Garcia,Kiaran McLaughlin,20.0,0.0,0.0,0.0,2012,Kentucky Derby
+13,16,El Padrino,Rafael Bejarano,Todd Pletcher,8.25,0.0,0.0,0.0,2012,Kentucky Derby
+14,17,Done Talking,Sheldon Russell,Hamilton Smith,40.0,0.0,0.0,0.0,2012,Kentucky Derby
+15,18,Sabercat,Corey Nakatani,Steve Asmussen,38.0,0.0,0.0,0.0,2012,Kentucky Derby
+16,15,Gemologist,Javier Castellano,Todd Pletcher,9.0,0.0,0.0,0.0,2012,Kentucky Derby
+17,9,Trinniberg,Willie Martinez,Bisnath Parboo,45.0,0.0,0.0,0.0,2012,Kentucky Derby
+18,12,Prospective,Luis Contreras,Mark Casse,58.0,0.0,0.0,0.0,2012,Kentucky Derby
+19,3,Take Charge Indy,Calvin Borel,Patrick Byrne,13.0,0.0,0.0,0.0,2012,Kentucky Derby
+20,1,Daddy Long Legs,Colm O'Donoghue,Aidan O'Brien,27.0,0.0,0.0,0.0,2012,Kentucky Derby
+1,16,Orb,Joel Rosario,Shug McGaughey,7.0,12.8,7.4,5.4,2013,Kentucky Derby
+2,4,Golden Soul,Robby Albarado,Dallas Stewart,51.0,0.0,38.6,19.4,2013,Kentucky Derby
+3,3,Revolutionary,Calvin Borel,Todd Pletcher,7.0,0.0,0.0,5.4,2013,Kentucky Derby
+4,5,Normandy Invasion,Javier Castellano,Chad Brown,9.0,0.0,0.0,0.0,2013,Kentucky Derby
+5,6,Mylute,Rosie Napravnik,Tom Amoss,15.0,0.0,0.0,0.0,2013,Kentucky Derby
+6,2,Oxbow,Gary Stevens,D. Wayne Lukas,24.0,0.0,0.0,0.0,2013,Kentucky Derby
+7,11,Lines of Battle,Ryan Moore,Aidan O'Brien,33.0,0.0,0.0,0.0,2013,Kentucky Derby
+8,17,Will Take Charge,Jon Court,D. Wayne Lukas,35.0,0.0,0.0,0.0,2013,Kentucky Derby
+9,15,Charming Kitten,Edgar Pradio,Todd Pletcher,32.0,0.0,0.0,0.0,2013,Kentucky Derby
+10,7,Giant Finish,Jose Espinoza,Tony Dutrow,37.0,0.0,0.0,0.0,2013,Kentucky Derby
+11,9,Overanalyze,Rafael Bejarano,Todd Pletcher,16.0,0.0,0.0,0.0,2013,Kentucky Derby
+12,10,Palace Malice,Mike Smith,Todd Pletcher,23.0,0.0,0.0,0.0,2013,Kentucky Derby
+13,19,Java's War,Julien Leparoux,Kenny McPeek,27.0,0.0,0.0,0.0,2013,Kentucky Derby
+14,14,Verrazano,John Velazquez,Todd Pletcher,9.0,0.0,0.0,0.0,2013,Kentucky Derby
+15,12,Itsmyluckyday,Elvis Trujillo,Eddie Plesa Jr.,9.0,0.0,0.0,0.0,2013,Kentucky Derby
+16,18,Frac Daddy,Victor Lebron,Kenny McPeek,24.0,0.0,0.0,0.0,2013,Kentucky Derby
+17,8,Goldencents,Kevin Krigger,Doug O'Neill,8.0,0.0,0.0,0.0,2013,Kentucky Derby
+18,20,Vyjack,Garrett Gomez,Rudy Rodriguez,26.0,0.0,0.0,0.0,2013,Kentucky Derby
+19,13,Falling Sky,Luis Saez,John Terranova II,38.0,0.0,0.0,0.0,2013,Kentucky Derby
+20,1,Black Onyx,Joe Bravo,Kelly Breen,,0.0,0.0,0.0,2013,Kentucky Derby
+1,5,California Chrome,Victor Espinoza, Art Sherman,3.5,7.0,5.6,4.2,2014,Kentucky Derby
+2,17,Commanding Curve,Shaun Bridgmohan, Dallas Stewart,38.0,0.0,31.8,15.4,2014,Kentucky Derby
+3,4,Danza,Joe Bravo, Todd Pletcher,9.0,0.0,0.0,6.0,2014,Kentucky Derby
+4,20,Wicked Strong,Rajiv Maragh, Steve Asmussen,7.0,0.0,0.0,0.0,2014,Kentucky Derby
+5,6,Samraat,Jose Ortiz, Rick Violette Jr.,17.0,0.0,0.0,0.0,2014,Kentucky Derby
+6,12,Dance With Fate,Corey Nakatani, Peter Eurton,17.0,0.0,0.0,0.0,2014,Kentucky Derby
+7,19,Ride On Curlin,Calvin Borel, William G. Gowan,18.0,0.0,0.0,0.0,2014,Kentucky Derby
+8,14,Medal Count,Robby Albarado, Dale Romans,27.0,0.0,0.0,0.0,2014,Kentucky Derby
+9,13,Chitu,Martin Garcia, Bob Baffert,26.0,0.0,0.0,0.0,2014,Kentucky Derby
+10,7,We Miss Artie,Javier Castellano, Todd Pletcher,28.0,0.0,0.0,0.0,2014,Kentucky Derby
+11,8,General A Rod,Joel Rosario, Mike Maker,31.0,0.0,0.0,0.0,2014,Kentucky Derby
+12,16,Intense Holiday,John Velazquez, Todd Pletcher,15.0,0.0,0.0,0.0,2014,Kentucky Derby
+13,18,Candy Boy,Gary Stevens, John Sadler,10.0,0.0,0.0,0.0,2014,Kentucky Derby
+14,3,Uncle Sigh,Irad Ortiz Jr., Gary Contessa,31.0,0.0,0.0,0.0,2014,Kentucky Derby
+15,15,Tapiture,Ricardo Santana Jr.	 ,Steve Asmussen,36.0,0.0,0.0,0.0,2014,Kentucky Derby
+16,2,Harry's Holiday,Corey Lanerie, Mike Maker,45.0,0.0,0.0,0.0,2014,Kentucky Derby
+17,9,Vinceremos,Joe Rocco Jr., Todd Pletcher,50.0,0.0,0.0,0.0,2014,Kentucky Derby
+18,10,Wildcat Red,Luis Saez, Jose Garoffalo,19.0,0.0,0.0,0.0,2014,Kentucky Derby
+19,1,Vicar's In Trouble,Rosie Napravnik, Mike Maker,21.0,0.0,0.0,0.0,2014,Kentucky Derby
+20,11,Hoppertunity,Mike Smith, Bob Baffert,,0.0,0.0,0.0,2014,Kentucky Derby
+1,18,American Pharoah,Victor Espinoza,Bob Baffert,3.5,7.8,5.8,4.2,2015,Kentucky Derby
+2,10,Firing Line,Gary Stevens,Simon Callaghan,11.0,0.0,8.4,5.4,2015,Kentucky Derby
+3,8,Dortmund,Martin Garcia,Bob Baffert,5.0,0.0,0.0,4.2,2015,Kentucky Derby
+4,15,Frosted,Joel Rosario,Kiaran McLaughlin,11.0,0.0,0.0,0.0,2015,Kentucky Derby
+5,5,Danzig Moon,Julien Leparoux,Mark Casse,24.0,0.0,0.0,0.0,2015,Kentucky Derby
+6,3,Materiality,Javier Castellano,Todd Pletcher,,0.0,0.0,0.0,2015,Kentucky Derby
+7,14,Keen Ice,Kent Desormeaux,Dale Romans,47.0,0.0,0.0,0.0,2015,Kentucky Derby
+8,6,Mubtaahij,Christophe Soumillon,Mike de Kock,15.0,0.0,0.0,0.0,2015,Kentucky Derby
+9,13,Itsaknockout,Luis Saez,Todd Pletcher,32.0,0.0,0.0,0.0,2015,Kentucky Derby
+10,2,Carpe Diem,John Velazquez,Todd Pletcher,9.0,0.0,0.0,0.0,2015,Kentucky Derby
+11,21,Frammento,Corey Nakatani,Nick Zito,71.0,0.0,0.0,0.0,2015,Kentucky Derby
+12,9,Bolo,Rafael Bejarano,Carla Gaines,31.0,0.0,0.0,0.0,2015,Kentucky Derby
+13,17,Mr. Z,Ramon Vazquez,D Wayne Lukas,38.0,0.0,0.0,0.0,2015,Kentucky Derby
+14,1,Ocho Ocho Ocho,Elvis Trujillo,Jim Cassidy,27.0,0.0,0.0,0.0,2015,Kentucky Derby
+15,20,Far Right,Mike Smith,Ron Moquett,40.0,0.0,0.0,0.0,2015,Kentucky Derby
+16,16,War Story,Joe Talamo,Tom Amoss,46.0,0.0,0.0,0.0,2015,Kentucky Derby
+17,4,Tencendur,Manny Franco,George Weaver,53.0,0.0,0.0,0.0,2015,Kentucky Derby
+18,19,Upstart,Jose Ortiz,"Rick Violette, Jr.",17.0,0.0,0.0,0.0,2015,Kentucky Derby
+19,11,Stanford,Florent Geroux,Todd Pletcher,,0.0,0.0,0.0,2015,Kentucky Derby
+20,12,International Star,Miguel Mena,Mike Maker,,0.0,0.0,0.0,2015,Kentucky Derby
+21,7,El Kabeir,Calvin Borel,"John Terranova, III",,0.0,0.0,0.0,2015,Kentucky Derby
+1,13,Nyquist,Mario Gutierrez,Doug F. O'Neill,3.0,6.6,4.8,3.6,2016,Kentucky Derby
+2,11,Exaggerator,Kent J. Desormeaux,J. Keith Desormeaux,6.0,0.0,5.4,4.2,2016,Kentucky Derby
+3,5,Gun Runner,Florent Geroux,Steven M. Asmussen,11.0,0.0,0.0,6.0,2016,Kentucky Derby
+4,14,Mohaymen,Junior Alvarado,Kiaran P. McLaughlin,13.0,0.0,0.0,0.0,2016,Kentucky Derby
+5,2,Suddenbreakingnews,Luis S. Quinonez,Donnie K. Von Hemel,25.0,0.0,0.0,0.0,2016,Kentucky Derby
+6,9,Destin,Javier Castellano,Todd Pletcher,21.0,0.0,0.0,0.0,2016,Kentucky Derby
+7,19,Brody's Cause,Luis Saez,Dale L. Romans,25.0,0.0,0.0,0.0,2016,Kentucky Derby
+8,4,Mo Tom,Corey J. Lanerie,Thomas M. Amoss,26.0,0.0,0.0,0.0,2016,Kentucky Derby
+9,8,Lani,Yutaka Take,Mikio Matsunaga,30.0,0.0,0.0,0.0,2016,Kentucky Derby
+10,17,Mor Spirit,Gary L. Stevens,Bob Baffert,13.0,0.0,0.0,0.0,2016,Kentucky Derby
+11,6,My Man Sam,Julien R. Leparoux,Chad C. Brown,20.0,0.0,0.0,0.0,2016,Kentucky Derby
+12,12,Tom's Ready,"Brian Joseph Hernandez, Jr.",Dallas Stewart,49.0,0.0,0.0,0.0,2016,Kentucky Derby
+13,3,Creator,"Ricardo Santana, Jr.",Steven M. Asmussen,17.0,0.0,0.0,0.0,2016,Kentucky Derby
+14,15,Outwork,John R. Velazquez,Todd Pletcher,27.0,0.0,0.0,0.0,2016,Kentucky Derby
+15,20,Danzing Candy,Mike Smith,"Clifford W. Sise, Jr.",27.0,0.0,0.0,0.0,2016,Kentucky Derby
+16,1,Trojan Nation,Aaron T. Gryder,Patrick Gallagher,42.0,0.0,0.0,0.0,2016,Kentucky Derby
+17,7,Oscar Nominated,Robby Albarado,Michael J. Maker,42.0,0.0,0.0,0.0,2016,Kentucky Derby
+18,18,Majesto,Javier Castellano,Gustavo Delgado,57.0,0.0,0.0,0.0,2016,Kentucky Derby
+19,10,Whitmore,Victor Espinoza,Ron Moquett,31.0,0.0,0.0,0.0,2016,Kentucky Derby
+20,16,Shagaf,"Irad Ortiz, Jr.",Chad Brown,56.0,0.0,0.0,0.0,2016,Kentucky Derby
+1,5,Always Dreaming,John R. Velazquez,Todd A. Pletcher,5.5,11.4,7.2,5.8,2017,Kentucky Derby
+2,1,Lookin At Lee,Corey J. Lanerie,Steven M. Asmussen,34.0,0.0,26.6,15.2,2017,Kentucky Derby
+3,11,Battle of Midway,Flavien Prat,Jerry Hollendorfer,41.0,0.0,0.0,20.8,2017,Kentucky Derby
+4,14,Classic Empire,Julien R. Leparoux,Mark E. Casse,7.0,0.0,0.0,0.0,2017,Kentucky Derby
+5,19,Practical Joke,Joel Rosario,Chad C. Brown,28.0,0.0,0.0,0.0,2017,Kentucky Derby
+6,16,Tapwrit,Jose L. Ortiz,Todd A. Pletcher,28.0,0.0,0.0,0.0,2017,Kentucky Derby
+7,10,Gunnevera,Javier Castellano,Antonio Sano,11.0,0.0,0.0,0.0,2017,Kentucky Derby
+8,15,McCraken,"Brian Hernandez, Jr.",Ian R. Wilkes,7.0,0.0,0.0,0.0,2017,Kentucky Derby
+9,18,Gormley,Victor Espinoza,John A. Shirreffs,23.0,0.0,0.0,0.0,2017,Kentucky Derby
+10,17,Irish War Cry,Rajiv Maragh,H. Graham Motion,6.0,0.0,0.0,0.0,2017,Kentucky Derby
+11,8,Hence,Florent Geroux,Steven M. Asmussen,16.0,0.0,0.0,0.0,2017,Kentucky Derby
+12,4,Untrapped,"Ricardo Santana, Jr.",Steven M. Asmussen,59.0,0.0,0.0,0.0,2017,Kentucky Derby
+13,7,Girvin,Mike E. Smith,Joe Sharp,23.0,0.0,0.0,0.0,2017,Kentucky Derby
+14,20,Patch,Tyler Gaffalione,Todd A. Pletcher,15.0,0.0,0.0,0.0,2017,Kentucky Derby
+15,13,J Boys Echo,Robby Albarado,Dale L. Romans,48.0,0.0,0.0,0.0,2017,Kentucky Derby
+16,12,Sonneteer,Kent J. Desormeaux,J. Keith Desormeaux,40.0,0.0,0.0,0.0,2017,Kentucky Derby
+17,3,Fast and Accurate,Channing Hill,Michael J. Maker,42.0,0.0,0.0,0.0,2017,Kentucky Derby
+18,9,Irap,Mario Gutierrez,Doug F. O'Neill,42.0,0.0,0.0,0.0,2017,Kentucky Derby
+19,6,State of Honor,Mark E. Casse,Jose Lezcano,55.0,0.0,0.0,0.0,2017,Kentucky Derby
+20,2,Thunder Snow (IRE),Christophe Soumillon,Saeed bin Suroor,17.0,0.0,0.0,0.0,2017,Kentucky Derby
+1,7,Justify,Bob Baffert,Mike Smith,3.5,7.8,6.0,4.4,2018,Kentucky Derby
+2,6,Good Magic,Chad Brown,Jose Ortiz,10.0,0.0,9.2,6.6,2018,Kentucky Derby
+3,5,Audible,Todd Pletcher,Javier Castellano,8.0,0.0,0.0,5.8,2018,Kentucky Derby
+4,15,Instilled Regard,Jerry Hollendorfer,Drayden Van Dyke,86.0,0.0,0.0,0.0,2018,Kentucky Derby
+5,10,My Boy Jack,Keith Desormeaux,Kent Desormeaux,7.0,0.0,0.0,0.0,2018,Kentucky Derby
+6,13,Bravazo,D. Wayne Lukas,Luis Contreras,67.0,0.0,0.0,0.0,2018,Kentucky Derby
+7,9,Hofburg,William Mott,Irad Ortiz Jr.,28.0,0.0,0.0,0.0,2018,Kentucky Derby
+8,8,Lone Sailor,Thomas Amoss,James Graham,25.0,0.0,0.0,0.0,2018,Kentucky Derby
+9,18,Vino Rosso,Todd Pletcher,John Velazquez,15.0,0.0,0.0,0.0,2018,Kentucky Derby
+10,17,Solomini,Bob Baffert,Flabvien Prat,38.0,0.0,0.0,0.0,2018,Kentucky Derby
+11,1,Firenze Fire,Jason Servis,Paco Lopez,60.0,0.0,0.0,0.0,2018,Kentucky Derby
+12,11,Bolt d'Oro,Mike Ruis,Victor Ezpinoza,9.0,0.0,0.0,0.0,2018,Kentucky Derby
+13,4,Flameaway,Mark Casse,Jose Lezcano,38.0,0.0,0.0,0.0,2018,Kentucky Derby
+14,12,Enticed,Kiaran McLaughlin,Junior Alvarado,51.0,0.0,0.0,0.0,2018,Kentucky Derby
+15,3,Promises Fulfilled,Dale Romans,Corey Lanerie,50.0,0.0,0.0,0.0,2018,Kentucky Derby
+16,2,Free Drop Billy,Dale Romans,Robby Albarado,46.0,0.0,0.0,0.0,2018,Kentucky Derby
+17,19,Noble Indy,Todd Pletcher,Florent Goreoux,31.0,0.0,0.0,0.0,2018,Kentucky Derby
+18,20,Combatant,Steve Asmussen,Ricardo Santana Jr.,71.0,0.0,0.0,0.0,2018,Kentucky Derby
+19,16,Magnum Moon,Todd Pletcher,Luis Saez,14.0,0.0,0.0,0.0,2018,Kentucky Derby
+20,14,Mendelssohn,Aidan O'Brien,Ryan Moore,7.0,0.0,0.0,0.0,2018,Kentucky Derby
+1,20,Country House,William I. Mott,Flavien Prat,66.0,132.4,56.6,24.6,2019,Kentucky Derby
+2,13,Code of Honor,Claude R. McGaughey III,John Velazquez,16.0,0.0,15.2,9.8,2019,Kentucky Derby
+3,8,Tacitus,William I. Mott,Jose Ortiz,11.0,0.0,0.0,5.6,2019,Kentucky Derby
+4,5,Improbable,Bob Baffert,Irad Ortiz Jr.,7.0,0.0,0.0,0.0,2019,Kentucky Derby
+5,16,Game Winner,Bob Baffert,Joel Rosario,6.0,0.0,0.0,0.0,2019,Kentucky Derby
+6,15,Master Fencer (JPN),Tsunoda K,Julien Leparoux,51.0,0.0,0.0,0.0,2019,Kentucky Derby
+7,1,War of Will,Mark E. Casse,Tyler Gaffalione,21.0,0.0,0.0,0.0,2019,Kentucky Derby
+8,9,Plus Que Parfait,Brendan P. Walsh,Ricardo Santana Jr.,31.0,0.0,0.0,0.0,2019,Kentucky Derby
+9,14,Win Win Win,Michael J. Trombetta,Julian Pimentel,16.0,0.0,0.0,0.0,2019,Kentucky Derby
+10,10,Cutting Humor,Todd A. Pletcher,Corey J Lanerie,31.0,0.0,0.0,0.0,2019,Kentucky Derby
+11,3,By My Standards,W. Bret Calhoun,Gabriel Saez,21.0,0.0,0.0,0.0,2019,Kentucky Derby
+12,6,Vekoma,George Weaver,Javier Castellano,21.0,0.0,0.0,0.0,2019,Kentucky Derby
+13,21,Bodepress,Gustavo Delgado,Chris Landeros,21.0,0.0,0.0,0.0,2019,Kentucky Derby
+14,2,Tax,Danny Gargan,Junior Alvarado,21.0,0.0,0.0,0.0,2019,Kentucky Derby
+15,17,Roadster,Bob Baffert,Florent Geroux,7.0,0.0,0.0,0.0,2019,Kentucky Derby
+16,18,Long Range Toddy,Steven M. Asmussen,Jon Court,31.0,0.0,0.0,0.0,2019,Kentucky Derby
+17,7,Maximum Security,Jason Servis,Luis Saez,11.0,0.0,0.0,0.0,2019,Kentucky Derby
+18,19,Spinoff,Todd Pletcher,Manny Franco,31.0,0.0,0.0,0.0,2019,Kentucky Derby
+19,4,Gray Magician,Peter Miller,Drayden Van Dyke,51.0,0.0,0.0,0.0,2019,Kentucky Derby
+20,11,Haikal,Kiaran P. McLaughlin,Rajiv Maragh,,0.0,0.0,0.0,2019,Kentucky Derby
+21,12,Omaha Beach,Richard E. Mandella,Mike Smith,,0.0,0.0,0.0,2019,Kentucky Derby
+1,1,Afleet Alex,Jeremy Rose,Tim Ritchey,2.2,4.3,3.6,3.0,2005,Belmont Stakes
+2,2,Andromeda's Hero,Rafael Bejarano,Nicholas Zito,13.0,0.0,8.2,5.8,2005,Belmont Stakes
+3,3,Nolan's Cat,N. Arroyo Jr.,Dale L. Romans,51.0,0.0,0.0,7.2,2005,Belmont Stakes
+4,4,Indy Storm,Edgar Prado,Nicholas Zito,21.0,0.0,0.0,0.0,2005,Belmont Stakes
+5,5,A.P. Arrow,Jerry Bailey,D. Wayne Lukas,51.0,0.0,0.0,0.0,2005,Belmont Stakes
+6,6,Chekhov,Gary Stevens,Patrick Biancone,31.0,0.0,0.0,0.0,2005,Belmont Stakes
+7,7,Giacomo,Mike Smith,John Shirreffs,4.5,0.0,0.0,0.0,2005,Belmont Stakes
+8,8,Southern Africa,Jon Court,Michael Puhich,19.0,0.0,0.0,0.0,2005,Belmont Stakes
+9,9,Watchmon,TBA,Patrick Reynolds,76.0,0.0,0.0,0.0,2005,Belmont Stakes
+10,10,Reverberate,Jose Santos,Sal Russo,13.0,0.0,0.0,0.0,2005,Belmont Stakes
+11,11,Pinpoint,John Velazquez,Nicholas Zito,21.0,0.0,0.0,0.0,2005,Belmont Stakes
+1,1,Jazil,Fernando Jara,Kiaran McLaughlin,7.0,14.4,6.7,4.7,2006,Belmont Stakes
+2,2,Bluegrass Cat,John Velazquez,Todd Pletcher,6.0,0.0,6.4,4.7,2006,Belmont Stakes
+3,3,Sunriver,Rafael Bejarano,Todd Pletcher,7.0,0.0,0.0,6.1,2006,Belmont Stakes
+4,4,Steppenwolfer,Robby Albarado,Daniel Peitz,6.0,0.0,0.0,0.0,2006,Belmont Stakes
+5,5,Oh So Awesome,Mike Smith,James A. Jerkens,13.0,0.0,0.0,0.0,2006,Belmont Stakes
+6,6,Hemingway's Key,Jeremy Rose,Nick Zito,16.0,0.0,0.0,0.0,2006,Belmont Stakes
+7,7,Platinum Couple,Jose Espinoza,Joseph Lostritto,39.0,0.0,0.0,0.0,2006,Belmont Stakes
+8,8,Bob and John,Garrett Gomez,Bob Baffert,5.5,0.0,0.0,0.0,2006,Belmont Stakes
+9,9,Sacred Light,Victor Espinoza,David Hofmans,21.0,0.0,0.0,0.0,2006,Belmont Stakes
+10,10,High Finance,Eibar Coa,Richard Violette Jr.,11.0,0.0,0.0,0.0,2006,Belmont Stakes
+11,11,Deputy Glitters,Edgar Prado,Tom Albertrani,13.0,0.0,0.0,0.0,2006,Belmont Stakes
+12,12,Double Galore,Mike Luzzi,Myung Kwon Cho,16.0,0.0,0.0,0.0,2006,Belmont Stakes
+1,7,Rags to Riches,John Velazquez,Todd Pletcher,4.0,10.6,44.4,3.2,2007,Belmont Stakes
+2,3,Curlin,Robby Albarado,Steve Asmussen,2.2,0.0,3.0,2.3,2007,Belmont Stakes
+3,2,Tiago,Mike Smith,John Shirreffs,11.0,0.0,0.0,3.7,2007,Belmont Stakes
+4,6,Hard Spun,Garrett Gomez,J. Larry Jones,3.5,0.0,0.0,0.0,2007,Belmont Stakes
+5,4,C P West,Edgar Prado,Nick Zito,13.0,0.0,0.0,0.0,2007,Belmont Stakes
+6,1,Imawildandcrazyguy,Mark Guidry,BillÂ Kaplan,21.0,0.0,0.0,0.0,2007,Belmont Stakes
+7,5,Slewâs Tizzy,Rafael Bejarano,Greg Fox,21.0,0.0,0.0,0.0,2007,Belmont Stakes
+1,6,Da' Tara,Alan Garcia,Nick Zito,40.0,79.0,28.0,14.8,2008,Belmont Stakes
+2,4,Denis of Cork,Robby Albarado,David M. Carroll,7.0,0.0,5.4,4.1,2008,Belmont Stakes
+3,8 (*DH),Anak Nakal,Julien Leparoux,Nick Zito,35.0,0.0,0.0,7.6,2008,Belmont Stakes
+4,9 (*DH),Ready's Echo,John Velazquez,Todd Pletcher,31.0,0.0,0.0,6.2,2008,Belmont Stakes
+5,3,Macho Again,Garrett Gomez,Dallas Stewart,18.0,0.0,0.0,0.0,2008,Belmont Stakes
+6,7,Tale of Ekati,Eibar Coa,Barclay Tagg,15.0,0.0,0.0,0.0,2008,Belmont Stakes
+7,2,Guadalcanal,Javier Castellano,Frederick J.Â Seitz,23.0,0.0,0.0,0.0,2008,Belmont Stakes
+8,10,Icabad Crane,Jeremy Rose,H. Graham Motion,16.0,0.0,0.0,0.0,2008,Belmont Stakes
+9,1,Big Brown,Kent Desormeaux,Rick Dutrow Jr.,1.25,0.0,0.0,0.0,2008,Belmont Stakes
+1,4,Summer Bird,Ken Desormeaux,Tim Ice,13.0,25.4,9.3,4.7,2009,Belmont Stakes
+2,2,Dunkirk,John Velazquez,Todd Pletcher,5.5,0.0,5.4,3.6,2009,Belmont Stakes
+3,7,Mine That Bird,Calvin Borel,Chip Woolley Jr.,3.0,0.0,0.0,2.6,2009,Belmont Stakes
+4,6,Charitable Man,Alan Garcia,Kiaran McLaughlin,5.5,0.0,0.0,0.0,2009,Belmont Stakes
+5,5,Luv Gov,Miguel Mena,D. Wayne Lukas,23.0,0.0,0.0,0.0,2009,Belmont Stakes
+6,8,Flying Private,Julian Leparoux,D. Wayne Lukas,18.0,0.0,0.0,0.0,2009,Belmont Stakes
+7,10,Brave Victory,Rajiv Maragh,Nick Zito,29.0,0.0,0.0,0.0,2009,Belmont Stakes
+8,3,Mr. Hot Stuff,Edgar Prado,Eoin Harty,24.0,0.0,0.0,0.0,2009,Belmont Stakes
+9,1,Chocolate Candy,Garrett Gomez,Jerry Hollendorfer,11.0,0.0,0.0,0.0,2009,Belmont Stakes
+10,9,Miner's Escape,Jose Lezcano,Nick Zito,23.0,0.0,0.0,0.0,2009,Belmont Stakes
+1,1,Drosselmeyer,Mike Smith,William Mott,14.0,28.0,11.6,7.7,2010,Belmont Stakes
+2,2,Fly Down,John Velazquez,Nick Zito,6.0,0.0,6.8,5.1,2010,Belmont Stakes
+3,3,First Dude,Ramon Dominguez,Dale Romans,6.0,0.0,0.0,4.9,2010,Belmont Stakes
+4,4,Game On Dude,Martin Garcia,Bob Baffert,18.0,0.0,0.0,0.0,2010,Belmont Stakes
+5,5,Stay Put,Jamie Theriot,Steve Margolis,27.0,0.0,0.0,0.0,2010,Belmont Stakes
+6,6,Interactif,Javier Castellano,Todd Pletcher,20.0,0.0,0.0,0.0,2010,Belmont Stakes
+7,7,Stately Victor,Alan Garcia,Michael Maker,15.0,0.0,0.0,0.0,2010,Belmont Stakes
+8,8,Ice Box,Jose Lezcano,Nick Zito,2.8,0.0,0.0,0.0,2010,Belmont Stakes
+9,9,Make Music for Me,Joel Rosario,Alexis Barba,13.0,0.0,0.0,0.0,2010,Belmont Stakes
+10,10,Dave in Dixie,Calvin Borel,John Sadler,15.0,0.0,0.0,0.0,2010,Belmont Stakes
+11,11,Spangled Star,Garrett Gomez,Richard Dutrow Jr.,24.0,0.0,0.0,0.0,2010,Belmont Stakes
+12,12,Uptowncharlybrown,Rajiv Maragh,Linda White,11.0,0.0,0.0,0.0,2010,Belmont Stakes
+1,3,Ruler On Ice,Jose Valdivia Jr.,Kelly Breen,25.0,51.5,26.0,13.6,2011,Belmont Stakes
+2,2,Stay Thirsty,Javier Castellano,Todd Pletcher,17.0,0.0,19.4,10.8,2011,Belmont Stakes
+3,5,Brilliant Speed,Joel Rosario,Tom Albertrani,11.0,0.0,0.0,7.9,2011,Belmont Stakes
+4,6,Nehro,Corey Nakatani,Steve Asmussen,5.5,0.0,0.0,0.0,2011,Belmont Stakes
+5,12,Shackleford,Jesus Castanon,Dale Romans,8.0,0.0,0.0,0.0,2011,Belmont Stakes
+6,9,Animal Kingdom,John Velazquez,Graham Motion,3.5,0.0,0.0,0.0,2011,Belmont Stakes
+7,10,Mucho Macho Man,Ramon Dominguez,Kathy Ritvo,8.0,0.0,0.0,0.0,2011,Belmont Stakes
+8,4,Santiva,Shaun Bridgmohan,Eddie Kenneally,14.0,0.0,0.0,0.0,2011,Belmont Stakes
+9,7,Monzon,Jose Lezcano,Ignacio Correas IV,27.0,0.0,0.0,0.0,2011,Belmont Stakes
+10,1,Master of Hounds,Garrett Gomez,Aidan O'Brien,6.0,0.0,0.0,0.0,2011,Belmont Stakes
+11,8,Prime Cut,Edgar Prado,Neil Howard,21.0,0.0,0.0,0.0,2011,Belmont Stakes
+12,11,Isn't He Perfect,Rajiv Maragh,Doodnauth Shivmangal,29.0,0.0,0.0,0.0,2011,Belmont Stakes
+1,3,Union Rags,John Velazquez,Mike Matz,4.0,7.5,4.2,3.4,2012,Belmont Stakes
+2,9,Paynter,Mike Smith,Bob Baffert,5.0,0.0,5.1,3.9,2012,Belmont Stakes
+3,4,Atigun,Julian Leparoux,Ken McPeek,22.0,0.0,0.0,10.6,2012,Belmont Stakes
+4,1,Street Life,Jose Lezcano,Chad Brown,11.0,0.0,0.0,0.0,2012,Belmont Stakes
+5,7,Five Sixteen,Rosie Napravnik,Dominick Schettino,20.0,0.0,0.0,0.0,2012,Belmont Stakes
+6,2,Unstoppable U,Junior Alvarado,Ken McPeek,13.0,0.0,0.0,0.0,2012,Belmont Stakes
+7,5,Dullahan,Javier Castellano,Dale Romans,3.5,0.0,0.0,0.0,2012,Belmont Stakes
+8,12,My Adonis,Ramon Dominguez,Kelly Green,21.0,0.0,0.0,0.0,2012,Belmont Stakes
+9,6,Ravelo's Boy,Alex Solis,M. Azpurua Azpurua,13.0,0.0,0.0,0.0,2012,Belmont Stakes
+10,10,Optimizer,Cory Nakatani,D. Wayne Lukas,36.0,0.0,0.0,0.0,2012,Belmont Stakes
+11,*8,Guyana Star Dweej,Kent Desormeaux,Doodnauth Shivmangal,24.0,0.0,0.0,0.0,2012,Belmont Stakes
+12,**11,I'll Have Another,Mario Gutierrez,Doug O'Neill,1.8,0.0,0.0,0.0,2012,Belmont Stakes
+1,12,Palace Malice,Mike Smith,Todd Pletcher,16.0,29.6,11.2,6.7,2013,Belmont Stakes
+2,7,Oxbow,Gary Stevens,D. Wayne Lukas,10.0,0.0,9.9,6.1,2013,Belmont Stakes
+3,5,Orb,Joel Rosario,Shug McGaughey,,0.0,0.0,3.9,2013,Belmont Stakes
+4,6,Incognito,Irad Ortiz Jr.,Kiaran McLaughlin,11.0,0.0,0.0,0.0,2013,Belmont Stakes
+5,9,Revolutionary,Calvin Borel,Todd Pletcher,6.0,0.0,0.0,0.0,2013,Belmont Stakes
+6,13,Unlimited Budget,Javier Castellano,Todd A. Pletcher,14.0,0.0,0.0,0.0,2013,Belmont Stakes
+7,3,Overanalyze,Rafael Bejarano,Todd Pletcher,11.0,0.0,0.0,0.0,2013,Belmont Stakes
+8,11,Vyjack,Julien Leparoux,Rudy Rodriguez,29.0,0.0,0.0,0.0,2013,Belmont Stakes
+9,14,Golden Soul,Robby Albarado,Dallas Stewart,12.0,0.0,0.0,0.0,2013,Belmont Stakes
+10,10,Will Take Charge,Jon Court,D. Wayne Lukas,22.0,0.0,0.0,0.0,2013,Belmont Stakes
+11,4,Giant Finish,Jose Espinoza,Tony Dutrow,32.0,0.0,0.0,0.0,2013,Belmont Stakes
+12,8,Midnight Taboo,Garrett Gomez,Todd Pletcher,29.0,0.0,0.0,0.0,2013,Belmont Stakes
+13,2,Freedom Child,Luis Saez,Thomas Albertrani,10.0,0.0,0.0,0.0,2013,Belmont Stakes
+14,1,Frac Daddy,Alan Garcia,Kenneth McPeek,30.0,0.0,0.0,0.0,2013,Belmont Stakes
+1,11,Tonalist,Joel Rosario,Christophe Clement,10.0,20.4,9.6,7.0,2014,Belmont Stakes
+2,8,Commissioner,Javier Castellano,Todd Pletcher,28.0,0.0,23.2,13.2,2014,Belmont Stakes
+3,1,Medal Count,Robby Albarado,Dale L. Romans,27.0,0.0,0.0,13.2,2014,Belmont Stakes
+4,DH - 9,Wicked Strong,Rajiv Maragh,Jimmy Jerkens,6.0,0.0,0.0,0.0,2014,Belmont Stakes
+5,DH - 2,California Chrome,Victor Espinoza,Art Sherman,1.8,0.0,0.0,0.0,2014,Belmont Stakes
+6,7,Samraat,Jose Ortiz,Rick Violette,20.0,0.0,0.0,0.0,2014,Belmont Stakes
+7,10,General a Rod,Rosie Napravnik,Mike Maker,37.0,0.0,0.0,0.0,2014,Belmont Stakes
+8,3,Matterhorn,Joe Bravo,Todd Pletcher,39.0,0.0,0.0,0.0,2014,Belmont Stakes
+9,4,Commanding Curve,Shaun Bridgmohan,Dallas Stewart,9.0,0.0,0.0,0.0,2014,Belmont Stakes
+10,6,Matuszak,Mike Smith,Bill Mott,32.0,0.0,0.0,0.0,2014,Belmont Stakes
+11,5,Ride On Curlin,John Velazquez,Billy Gowan,8.0,0.0,0.0,0.0,2014,Belmont Stakes
+1,5,American Pharoah,Victor Espinoza,Bob Baffert,1.6,3.5,2.8,2.5,2015,Belmont Stakes
+2,6,Frosted,Joel Rosario,Kiaran McLaughlin,6.0,0.0,3.5,2.9,2015,Belmont Stakes
+3,7,Keen Ice ,Kent Desormeaux,Dale Romans,21.0,0.0,0.0,4.6,2015,Belmont Stakes
+4,1,Mubtaahij ,"Irad Ortiz, Jr.",Mike De Kock,11.0,0.0,0.0,0.0,2015,Belmont Stakes
+5,4,Frammento,Mike Smith,Nick Zito,31.0,0.0,0.0,0.0,2015,Belmont Stakes
+6,3,Madefromlucky ,Javier Castellano,Todd Pletcher,13.0,0.0,0.0,0.0,2015,Belmont Stakes
+7,2,Tale Of Verve ,Gary Stevens,Dallas Stewart,16.0,0.0,0.0,0.0,2015,Belmont Stakes
+8,8,Materiality ,John Velazquez,Todd Pletcher,7.0,0.0,0.0,0.0,2015,Belmont Stakes
+1,13,Creator,Irad Ortiz Jr.,Steve Asmussen,16.0,34.8,14.6,9.4,2016,Belmont Stakes
+2,2,Destin,Javier Castellano,Todd Pletcher,11.0,0.0,9.4,6.2,2016,Belmont Stakes
+3,10,Lani,Yutaka Take,Mikio Matsunaga,12.0,0.0,0.0,6.6,2016,Belmont Stakes
+4,1,Governor Malibu,Joel Rosario,Christophe Clement,21.0,0.0,0.0,0.0,2016,Belmont Stakes
+5,12,Brodys Cause,Luis Saez,Dale Romans,22.0,0.0,0.0,0.0,2016,Belmont Stakes
+6,3,Cherry Wine,Corey J. Lanerie,Dale Romans,10.0,0.0,0.0,0.0,2016,Belmont Stakes
+7,11,Exaggerator,Kent Desormeaux,Keith Desormeaux,2.2,0.0,0.0,0.0,2016,Belmont Stakes
+8,8,Forever dOro,Jose Ortiz,Dallas Stewart,61.0,0.0,0.0,0.0,2016,Belmont Stakes
+9,6,Gettysburg,Paco Lopez,Steve Asmussen,51.0,0.0,0.0,0.0,2016,Belmont Stakes
+10,7,Seeking the Soul,Florent Geroux,Dallas Stewart,51.0,0.0,0.0,0.0,2016,Belmont Stakes
+11,5,Stradivari,John Velazquez,Todd Pletcher,8.0,0.0,0.0,0.0,2016,Belmont Stakes
+12,4,Suddenbreakingnews,Mike Smith,Donnie Von Hemel,6.0,0.0,0.0,0.0,2016,Belmont Stakes
+13,9,Trojan Nation,Aaron Gryder,Patrick Gallagher,61.0,0.0,0.0,0.0,2016,Belmont Stakes
+1,2,Tapwrit,Jose L. Ortiz,Todd Pletcher,7.0,12.6,6.5,5.0,2017,Belmont Stakes
+2,7,Irish War Cry,Rajiv Maragh,H. Graham Motion,4.5,0.0,4.7,3.9,2017,Belmont Stakes
+3,12,Patch,John R. Velazquez,Todd A. Pletcher,13.0,0.0,0.0,6.5,2017,Belmont Stakes
+4,3,Gormley,Victor Espinoza,John A. Shirreffs,9.0,0.0,0.0,0.0,2017,Belmont Stakes
+5,8,Senior Investment,Channing Hill,Kenneth G. McPeek,13.0,0.0,0.0,0.0,2017,Belmont Stakes
+6,1,Twisted Tom,Javier Castellano,Chad C. Brown,21.0,0.0,0.0,0.0,2017,Belmont Stakes
+7,6,Lookin At Lee,Irad Ortiz Jr.,Steven M. Asmussen,6.0,0.0,0.0,0.0,2017,Belmont Stakes
+8,9,Meantime,Mike Smith,Brian A. Lynch,16.0,0.0,0.0,0.0,2017,Belmont Stakes
+9,4,J Boys Echo,Robby Albarado,Dale L. Romans,16.0,0.0,0.0,0.0,2017,Belmont Stakes
+10,10,Multiplier,Joel Rosario,Brendan P. Walsh,16.0,0.0,0.0,0.0,2017,Belmont Stakes
+11,5,Hollywood Handsome,Florent Geroux,Dallas Stewart,31.0,0.0,0.0,0.0,2017,Belmont Stakes
+12,11,Epicharis,Christophe Lemaire,Kiyoshi Hagiwara,,0.0,0.0,0.0,2017,Belmont Stakes
+1,1,Justify,Mike Smith,Bob Baffert,1.8,3.6,3.5,2.8,2018,Belmont Stakes
+2,6,Gronkowski,Jose Ortiz,Chad Brown,23.0,0.0,13.8,7.0,2018,Belmont Stakes
+3,4,Hofburg,Irad Ortiz Jr.,Bill Mott,6.0,0.0,0.0,3.7,2018,Belmont Stakes
+4,8,Vino Rosso,John Velazquez,Todd Pletcher,8.0,0.0,0.0,0.0,2018,Belmont Stakes
+5,7,Tenfold,Ricardo Santana Jr.,Steve Asmussen,11.0,0.0,0.0,0.0,2018,Belmont Stakes
+6,3,Bravazo,Luis Saez,D. Wayne Lukas,9.0,0.0,0.0,0.0,2018,Belmont Stakes
+7,2,Free Drop Billy,Robby Albarado,Dale Romans,31.0,0.0,0.0,0.0,2018,Belmont Stakes
+8,5,Restoring Hope,Florent Geroux,Bob Baffert,35.0,0.0,0.0,0.0,2018,Belmont Stakes
+9,10,Blended Citizen,Kyle Frey,Doug OâNeill,23.0,0.0,0.0,0.0,2018,Belmont Stakes
+10,9,Noble Indy,Javier Castellano,Todd Pletcher,24.0,0.0,0.0,0.0,2018,Belmont Stakes
+1,7,Sir Winston,Mark Casse,Joel Rosario,11.0,22.4,8.8,6.1,2019,Belmont Stakes
+2,10,Tacitus,Bill Mott,Jose Ortiz,2.8,0.0,3.9,3.2,2019,Belmont Stakes
+3,1,Joevia,Gregg Sacco,Jose Lezcano,22.0,0.0,0.0,8.7,2019,Belmont Stakes
+4,4,Tax,Danny Gargan,Irad Ortiz Jr.,13.0,0.0,0.0,0.0,2019,Belmont Stakes
+5,3,Master Fencer,Koichi Tsunoda,Julien Leparoux,14.0,0.0,0.0,0.0,2019,Belmont Stakes
+6,6,Spinoff,Todd Pletcher,Javier Castellano,11.0,0.0,0.0,0.0,2019,Belmont Stakes
+7,2,Everfast,Dale Romans,Luis Saez,18.0,0.0,0.0,0.0,2019,Belmont Stakes
+8,8,Intrepid Heart,Todd Pletcher,John Velazquez,8.0,0.0,0.0,0.0,2019,Belmont Stakes
+9,9,War of Will,Mark Casse,Tyler Gaffalione,4.5,0.0,0.0,0.0,2019,Belmont Stakes
+10,5,Bourbon War,Mark Hennig,Mike Smith,11.0,0.0,0.0,0.0,2019,Belmont Stakes
+1,12,Afleet Alex,Jeremy Rose,Timothy F. Ritchey,2.0,8.6,5.0,3.2,2005,Preakness
+2,5,Scrappy T,Ramon Dominguez,Robert Bailes,13.0,0.0,11.2,5.8,2005,Preakness
+3,13,Giacomo,Mike Smith,John Shirreffs,21.0,0.0,0.0,0.0,2005,Preakness
+4,10,Sun King,Rafael Bejarano,Nick Zito,18.0,0.0,0.0,0.0,2005,Preakness
+5,11,High Limit,Edgar Prado,Robert Frankel,17.0,0.0,0.0,0.0,2005,Preakness
+6,3,Noble Causeway,Gary L. Stevens,Nick Zito,16.0,0.0,0.0,0.0,2005,Preakness
+7,4,Greeley's Galaxy,David Flores,Warren Stute,6.0,0.0,0.0,0.0,2005,Preakness
+8,1,Malibu Moonshine,Steve Hamilton,King T.Â Leatherbury,16.0,0.0,0.0,0.0,2005,Preakness
+9,7,Closing Argument,Cornelio Velasquez,Kiaran McLaughlin,21.0,0.0,0.0,0.0,2005,Preakness
+10,2,High Fly,Jerry D. Bailey,Nick Zito,12.0,0.0,0.0,0.0,2005,Preakness
+11,6,Hal's Image,Jose Santos,Barry R. Rose,16.0,0.0,0.0,0.0,2005,Preakness
+12,9,Wilko,Corey Kakatani,D. Wayne Lukas,14.0,0.0,0.0,0.0,2005,Preakness
+13,5,Galloping Grocer,Joe Bravo,Dominick Schettino,28.0,0.0,0.0,0.0,2005,Preakness
+14,14,Going Wild,Robby Albarado,D. Wayne Lukas,27.0,0.0,0.0,0.0,2005,Preakness
+1,8,Bernardini,Javier Castellano,Tom Albertrani,13.0,27.8,9.4,5.8,2006,Preakness
+2,7,Sweetnorthernsaint,Kent Desormeaux,Michael Trombetta,8.0,0.0,7.8,5.0,2006,Preakness
+3,3,Hemingway's Key,Jeremy Rose,Nick Zito,31.0,0.0,0.0,8.0,2006,Preakness
+4,5,Brother Derek,Alex Solis,Dan Hendricks,4.0,0.0,0.0,0.0,2006,Preakness
+5,4,Greeley's Legacy,Richard Migliore,George Weaver,21.0,0.0,0.0,0.0,2006,Preakness
+6,2,Platinum Couple,Jose Espinoza,Joseph Lostritto,51.0,0.0,0.0,0.0,2006,Preakness
+7,1,Like Now,Garrett Gomez,Kiaran McLaughlin,13.0,0.0,0.0,0.0,2006,Preakness
+8,9,Diabolical,Ramon Dominguez,Steve Klesaris,31.0,0.0,0.0,0.0,2006,Preakness
+9,6,Barbaro,Edgar Prado,Michael Matz,1.6,0.0,0.0,0.0,2006,Preakness
+1,4,Curlin,Robby Albarado,Steve Asmussen,4.5,8.8,3.8,2.8,2007,Preakness
+2,8,Street Sense,Calvin Borel,Carl Nafzger,2.4,0.0,3.0,2.4,2007,Preakness
+3,7,Hard Spun,Mario G. Pino,J. LarryÂ Jones,3.5,0.0,0.0,3.0,2007,Preakness
+4,9,CP West,Edgar Prado,Nick Zito,21.0,0.0,0.0,0.0,2007,Preakness
+5,3,Circular Quay,John R. Velazquez,Todd Pletcher,9.0,0.0,0.0,0.0,2007,Preakness
+6,5,King of the Roxy,Garrett Gomez,Todd Pletcher,13.0,0.0,0.0,0.0,2007,Preakness
+7,1,Mint Slewlep,Alan Garcia,Larry Jones,31.0,0.0,0.0,0.0,2007,Preakness
+8,2,Xchanger,Ramon Dominguez,Carl Nafzger,16.0,0.0,0.0,0.0,2007,Preakness
+9,6,Flying First Class,Mark Guidry,D. Wayne Lukas,21.0,0.0,0.0,0.0,2007,Preakness
+1,7,Big Brown,Kent Desormeaux,Richard Dutrow Jr.,1.5,2.4,2.6,2.4,2008,Preakness
+2,1,Macho Again,Julien Leparoux,Dallas Stewart,21.0,0.0,17.2,10.4,2008,Preakness
+3,3,Icabad Crane,Jeremy Rose,H. Graham Motion,31.0,0.0,0.0,5.6,2008,Preakness
+4,6,Racecar Rhapsody,Robby Albarado,Kenneth McPeek,31.0,0.0,0.0,0.0,2008,Preakness
+5,9,Stevil,John R. Velazquez,Nick Zito,31.0,0.0,0.0,0.0,2008,Preakness
+6,8,Kentucky Bear,Jamie Theriot,Reade Blake,16.0,0.0,0.0,0.0,2008,Preakness
+7,13,Hey Byrn,Charles C. Lopez,"Edward Plesa, Jr.",21.0,0.0,0.0,0.0,2008,Preakness
+8,11,Giant Moon,Ramon A. Dominguez,Richard E.Â Schosberg,31.0,0.0,0.0,0.0,2008,Preakness
+9,2,Tres Borrachos,Tyler Baze,C. BeauÂ Greely,31.0,0.0,0.0,0.0,2008,Preakness
+10,4,Yankee Bravo,Alex Solis,Patrick Gallagher,16.0,0.0,0.0,0.0,2008,Preakness
+11,12,Gayego,Mike Smith,Paulo Lobo,9.0,0.0,0.0,0.0,2008,Preakness
+12,10,Riley Tucker,Edgar Prado,William I. Mott,31.0,0.0,0.0,0.0,2008,Preakness
+1,13,Rachel Alexandra,Calvin Borel,Steve Asmussen,2.8,5.6,4.6,3.6,2009,Preakness
+2,2,Mine That Bird,Mike Smith,"Bennie ""Chip"" Woolley Jr.",5.5,0.0,6.6,4.8,2009,Preakness
+3,3,Musket Man,Eibar Coa,Derek Ryan,11.0,0.0,0.0,5.0,2009,Preakness
+4,10,Flying Private,Alan Garcia,D. Wayne Lucas,51.0,0.0,0.0,0.0,2009,Preakness
+5,1,Big Drama,John Velazquez,David Fawkes,11.0,0.0,0.0,0.0,2009,Preakness
+6,7,Papa Clem,Rafael Bejarano,Gary Stute,9.0,0.0,0.0,0.0,2009,Preakness
+7,6,Terrain,Jeremy Rose,Albert Stall Jr.,31.0,0.0,0.0,0.0,2009,Preakness
+8,4,Luv Gov,Jamie Theriot,D. Wayne Lukas,51.0,0.0,0.0,0.0,2009,Preakness
+9,8,General Quarters,Julian Leparoux,Tom McCarthy,21.0,0.0,0.0,0.0,2009,Preakness
+10,5,Friesan Fire,Gabriel Saez,Larry Jones,11.0,0.0,0.0,0.0,2009,Preakness
+11,9,Pioneerof the Nile,Garrett Gomez,Bob Baffert,6.0,0.0,0.0,0.0,2009,Preakness
+12,12,Tone It Down,Kent Desormeaux,William Komlo,51.0,0.0,0.0,0.0,2009,Preakness
+13,11,Take the Points,Edgar Prado,Todd Pletcher,31.0,0.0,0.0,0.0,2009,Preakness
+1,7,Lookin At Lucky,Martin Garcia,Bob Baffert,3.0,6.8,4.6,3.8,2010,Preakness
+2,11,First Dude,Ramon Dominguez,Dale Romans,24.0,0.0,16.6,9.2,2010,Preakness
+3,6,Jackson Bend,Mike Smith,Nick Zito,12.0,0.0,0.0,6.6,2010,Preakness
+4,5,Yawanna Twist,Edgar Prado,Richard Dutrow Jr.,17.0,0.0,0.0,0.0,2010,Preakness
+5,12,Dublin,Garrett Gomez,D. Wayne Lukas,10.0,0.0,0.0,0.0,2010,Preakness
+6,10,Paddy O'Prado,Kent Desormeaux,Dale Romans,8.0,0.0,0.0,0.0,2010,Preakness
+7,9,Caracortado,Paul Atkinson,Michael Machowsky,19.0,0.0,0.0,0.0,2010,Preakness
+8,8,Super Saver,Calvin Borel,Todd Pletcher,3.0,0.0,0.0,0.0,2010,Preakness
+9,2,Schoolyard Dreams,Eibar Coa,Derek Ryan,16.0,0.0,0.0,0.0,2010,Preakness
+10,1,Aikenite,Javier Castellano,Todd Pletcher,31.0,0.0,0.0,0.0,2010,Preakness
+11,3,Pleasant Prince,Julien Leparoux,Wesley Ward,24.0,0.0,0.0,0.0,2010,Preakness
+12,4,Northern Giant,Terry Thompson,D. Wayne Lukas,31.0,0.0,0.0,0.0,2010,Preakness
+1,5,Shackleford,Jesus Castanon,Dale Romans,13.0,27.2,10.2,6.8,2011,Preakness
+2,11,Animal Kingdom,John R.Â Velazquez,H. Graham Motion,3.0,0.0,4.2,3.6,2011,Preakness
+3,1,Astrology,Mike Smith,Steve Asmussen,16.0,0.0,0.0,8.0,2011,Preakness
+4,10,Dialed In,Julien Leparoux,Nick Zito,5.5,0.0,0.0,0.0,2011,Preakness
+5,8,Dance City,Ramon Dominguez,Todd Pletcher,13.0,0.0,0.0,0.0,2011,Preakness
+6,9,Mucho Macho Man,Rajiv Maragh,Kathy Ritvo,7.0,0.0,0.0,0.0,2011,Preakness
+7,3,King Congie,Robby Albarado,Thomas Albertrani,21.0,0.0,0.0,0.0,2011,Preakness
+8,14,Mr. Commons,Victor Espinoza,John Shirreffs,21.0,0.0,0.0,0.0,2011,Preakness
+9,12,Isn't He Perfect,Edgar Prado,Doodnauth Shivmangal,31.0,0.0,0.0,0.0,2011,Preakness
+10,13,Concealed Identity,Sheldon Russell,Edmond Gaudet,31.0,0.0,0.0,0.0,2011,Preakness
+11,2,Norman Asbjornson,Julian Pimentel,Chris Grove,31.0,0.0,0.0,0.0,2011,Preakness
+12,6,Sway Away,Garrett Gomez,Jeff Bonde,16.0,0.0,0.0,0.0,2011,Preakness
+13,7,Midnight Interlude,Martin Garcia,Bob Baffert,16.0,0.0,0.0,0.0,2011,Preakness
+14,4,Flashpoint,Cornelio Velasquez,Wesley Ward,21.0,0.0,0.0,0.0,2011,Preakness
+1,9,I'll Have Another,Mario Gutierrez,Doug O'Neill,4.0,8.4,3.8,2.8,2012,Preakness
+2,7,Bodemeister,Mike Smith,Bob Baffert,2.8,0.0,3.2,2.8,2012,Preakness
+3,6,Creative Cause,Joel Rosario,Mike Harrington,7.0,0.0,0.0,3.6,2012,Preakness
+4,4,Zetterholm,John Alvarado,"Richard Dutrow, Jr.",21.0,0.0,0.0,0.0,2012,Preakness
+5,2,Teeth of the Dog,Joe Bravo,Michael Matz,16.0,0.0,0.0,0.0,2012,Preakness
+6,10,Optimizer,Jon Court,D. Wayne Lukas,24.0,0.0,0.0,0.0,2012,Preakness
+7,11,Cozzetti,Dale Romans,Jose Lezcano,28.0,0.0,0.0,0.0,2012,Preakness
+8,1,Tiger Walk,Ramon Dominguez,"Ignacio Correas, IV",24.0,0.0,0.0,0.0,2012,Preakness
+9,8,Daddy Nose Best,Juan Leparoux,Steve Asmussen,12.0,0.0,0.0,0.0,2012,Preakness
+10,5,Went The Day Well,John Velazquez,Graham Motion,7.0,0.0,0.0,0.0,2012,Preakness
+11,3,Pretension,Javier Santiago,Chris Grove,34.0,0.0,0.0,0.0,2012,Preakness
+1,6,Oxbow,Gary Stevens,D. Wayne Lukas,16.0,32.8,12.0,6.8,2013,Preakness
+2,9,Itsmyluckyday,John Velazquez,Eddie Plesa Jr.,11.0,0.0,7.8,5.0,2013,Preakness
+3,5,Mylute,Rosie Napravnik,Tom Amoss,6.0,0.0,0.0,5.2,2013,Preakness
+4,1,Orb,Joel Rosario,Shug McGaughey,1.6,0.0,0.0,0.0,2013,Preakness
+5,2,Goldencents,Kevin Krigger,Doug OâNeill,9.0,0.0,0.0,0.0,2013,Preakness
+6,4,Departing,"Brian Hernandez, Jr.","Albert M. Stall, Jr.",7.0,0.0,0.0,0.0,2013,Preakness
+7,7,Will Take Charge,Mike Smith,D. Wayne Lukas,13.0,0.0,0.0,0.0,2013,Preakness
+8,8,Govenor Charlie,Martin Garcia,Bob Baffert,13.0,0.0,0.0,0.0,2013,Preakness
+9,3,Titletown Five,Julien Leparoux,D. Wayne Lukas,31.0,0.0,0.0,0.0,2013,Preakness
+1,3,California Chrome,Victor Espinoza,Art Sherman,1.6,3.0,3.0,2.4,2014,Preakness
+2,10,Ride On Curlin,Joel Rosario	,William Gowan,11.0,0.0,5.6,3.8,2014,Preakness
+3,8,Social Inclusion,Luis Contreras,Manny Azpurua	,6.0,0.0,0.0,3.4,2014,Preakness
+4,2,General a Rod,Javier Castellano,Mike Maker,16.0,0.0,0.0,0.0,2014,Preakness
+5,4,Ring Weekend,Alan Garcia,Graham Motion,21.0,0.0,0.0,0.0,2014,Preakness
+6,9,Pablo Del Monte,Jeffrey Sanchez,Wesley Ward,21.0,0.0,0.0,0.0,2014,Preakness
+7,1,Dynamic Impact,Miguel Mena,Mark Casse,13.0,0.0,0.0,0.0,2014,Preakness
+8,7,Kid Cruz,Julian Pimentel,Linda Rice,21.0,0.0,0.0,0.0,2014,Preakness
+9,5,Bayern	,Rosie Napravnik,Bob Baffert,11.0,0.0,0.0,0.0,2014,Preakness
+10,6,Ria Antonia (F),Calvin Borel,Tom Amoss,31.0,0.0,0.0,0.0,2014,Preakness
+1,1,American Pharoah,Victor Espinoza,Bob Baffert,1.8,3.8,3.4,2.8,2015,Preakness
+2,5,Tale of Verve,Joel Rosario,Dallas Stewart,26.0,0.0,19.0,8.8,2015,Preakness
+3,7,Divining Rod,Javier Castellano,Arnaud Delacour,13.0,0.0,0.0,5.2,2015,Preakness
+4,2,Dortmund,Martin Garcia,Bob Baffert,5.0,0.0,0.0,0.0,2015,Preakness
+5,3,Mr. Z,Corey Nakatani,D. Wayne Lukas,17.0,0.0,0.0,0.0,2015,Preakness
+6,4,Danzig Moon,Julien Leparoux,Mark Casse,14.0,0.0,0.0,0.0,2015,Preakness
+7,8,Firing Lane,Gary Stevens,Simon Callaghan,4.0,0.0,0.0,0.0,2015,Preakness
+8,6,Bodhisattva,Trevor McCarthy,Jose Corrales,26.0,0.0,0.0,0.0,2015,Preakness
+1,5,Exaggerator,Kent Desormeaux,J. Keith Desormeaux,3.5,7.2,3.2,2.4,2016,Preakness
+2,1,Cherry Wine,Corey Lanerie,Dale Romans,18.0,0.0,9.8,4.2,2016,Preakness
+3,3,Nyquist,Mario Gutierrez,Doug O'Neill,1.8,0.0,0.0,2.2,2016,Preakness
+4,11,Stradivari,John Velazquez,Todd Pletcher,9.0,0.0,0.0,0.0,2016,Preakness
+5,6,Lani,Yutaka Take,Mikio Matsunaga,31.0,0.0,0.0,0.0,2016,Preakness
+6,8,Laoban,Florent Geroux,Eric Guillot,68.0,0.0,0.0,0.0,2016,Preakness
+7,2,Uncle Lino,Fernando Perez,Gary Sherlock,36.0,0.0,0.0,0.0,2016,Preakness
+8,10,Fellowship,Jose Lezcano,Mark E. Casse,59.0,0.0,0.0,0.0,2016,Preakness
+9,4,Awesome Speed,Jevian Toledo,Alan E. Goldberg,53.0,0.0,0.0,0.0,2016,Preakness
+10,7,Collected,Javier Castellano,Bob Baffert,15.0,0.0,0.0,0.0,2016,Preakness
+11,9,Abiding Star,J.D. Acosta,Ned Allar,41.0,0.0,0.0,0.0,2016,Preakness
+1,2,Cloud Computing,Javier Castellano,Chad Brown,14.0,28.8,8.6,6.0,2017,Preakness
+2,5,Classic Empire,Julien Leparoux,Mark Casse,3.0,0.0,4.4,4.0,2017,Preakness
+3,8,Senior Investment,Channing Hill,Ken McPeek,26.0,0.0,0.0,10.2,2017,Preakness
+4,9,Lookin at Lee,Corey Lanerie,Steve Asmussen,10.0,0.0,0.0,0.0,2017,Preakness
+5,6,Gunnevera,Mike Smith,Antonio Sano,11.0,0.0,0.0,0.0,2017,Preakness
+6,1,Multiplier,Joel Rosario,Brendan Walsh,20.0,0.0,0.0,0.0,2017,Preakness
+7,10,Conquest Mo Money,Jorge Carreno,Miguel Hernandez,11.0,0.0,0.0,0.0,2017,Preakness
+8,4,Always Dreaming,John Velazquez,Todd Pletcher,2.4,0.0,0.0,0.0,2017,Preakness
+9,3,Hence,Florent Geroux,Steve Asmussen,22.0,0.0,0.0,0.0,2017,Preakness
+10,7,Term of Art,Jose Ortiz,Doug O'Neill,46.0,0.0,0.0,0.0,2017,Preakness
+1,7,Justify,Mike Smith,Bob Baffert,1.5,2.8,2.8,2.6,2018,Preakness
+2,8,Bravazo,Luis Contreras,D. Wayne Lukas,21.0,0.0,7.6,6.8,2018,Preakness
+3,6,Tenfold,Ricardo Santana Jr.,Steve Asmussen,21.0,0.0,0.0,6.8,2018,Preakness
+4,5,Good Magic,Jose Ortiz,Chad Brown,4.0,0.0,0.0,0.0,2018,Preakness
+5,2,Lone Sailor,Irad Ortiz Jr.,Thomas Amoss,16.0,0.0,0.0,0.0,2018,Preakness
+6,3,Sporting Chance,Luis Contreras,D. Wayne Lukas,31.0,0.0,0.0,0.0,2018,Preakness
+7,4,Diamond King,Javier Castellano,John Servis,31.0,0.0,0.0,0.0,2018,Preakness
+8,1,Quip,Florent Geroux,Rodolphe Brisset,13.0,0.0,0.0,0.0,2018,Preakness
+1,1,War of Will,Mark Casse,Tyler Gaffalione,7.0,14.2,7.4,5.4,2019,Preakness
+2,10,Everfast,Dale Romans,Joel Rosario,26.0,0.0,32.0,14.4,2019,Preakness
+3,5,Owendale,Brad Cox,Florent Geroux,9.0,0.0,0.0,6.0,2019,Preakness
+4,3,Warriorâs Charge,Brad Cox,Javier Castellano,14.0,0.0,0.0,0.0,2019,Preakness
+5,11,Laughing Fox,Steve Asmussen,Ricardo Santana Jr.,21.0,0.0,0.0,0.0,2019,Preakness
+6,4,Improbable,Bob Baffert,Mike Smith,3.5,0.0,0.0,0.0,2019,Preakness
+7,13,Win Win Win,Michael Trombetta,Julian Pimentel,14.0,0.0,0.0,0.0,2019,Preakness
+8,2,Bourbon War,Mark Hennig,Irad Ortiz Jr.,13.0,0.0,0.0,0.0,2019,Preakness
+9,8,Signalman,Kenny McPeek,Brian Hernandez Jr.,22.0,0.0,0.0,0.0,2019,Preakness
+10,12,Anothertwistafate,Blaine Wright,Jose Ortiz,15.0,0.0,0.0,0.0,2019,Preakness
+11,7,Alwaysmining,Kelly Rubley,Daniel Centeno,8.0,0.0,0.0,0.0,2019,Preakness
+12,6,Market King,D. Wayne Lukas,Jon Court,31.0,0.0,0.0,0.0,2019,Preakness
+13,9,Bodexpress,Gustavo Delgado,John Velazquez,20.0,0.0,0.0,0.0,2019,Preakness
