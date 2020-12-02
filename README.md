@@ -20,7 +20,7 @@ Another dataset was also pulled from Kaggle, containing information on the weath
 * Tableau for Data Visualizations
    *[Tableau](https://public.tableau.com/profile/david.moorman#!/vizhome/HorseRacingOddsBetting/OddsforBestChancetoWin?publish=yes)   
 * Excel Pivot Tables
-* Hosting on Heroku
+* Hosting on Heroku - <a href=https://final-jockey.herokuapp.com>Visit app HERE!</a>
 
 ## Methodology
 Inside any betting challenge, there are always various ways people seek out to receive a maximum return given the odds and the bet placed. Together we looked into several different betting strategies: Bet It All, Martingale System, Fixed Amount Betting, and Proportional Betting to see which one would yield higher profits. Every simulation we ran with these four methods had an initial bet of $100, besides the Bet It All strategy, having an initial bet of $1000.
