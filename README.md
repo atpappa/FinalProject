@@ -1,8 +1,18 @@
-# Final Project Proposal
+# Horse Race Gambling
 
 ![Pancho Odds](static/images/ponchofood.jpg)
 
 ## Jake Geiser, Carlie Azar, Erin Lee, Andrea Pappa, & Dave Moorman
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Data Source](#data-source)
+- [Approach through Programming](#project-approach-through-programming)
+- [Methodology](#methodology)
+- [Machine Model](#machine-model)
+- [Sources](#sources)
+- [Contact Us](#contact-us)
+
 
 ## Introduction
 On an international scale, horse race betting has proven to be an extremely lucrative gamble. Outcomes can depend on a wide variety of external contributing factors, but for the purpose of this project we have chosen to focus on weather and track conditions, success of jockeys and trainers, but also probabilities of winning given the odds. We have constructed a machine learning model that analyzed if the odds for a particular horse would contribute to the chances of winning or losing, and from that a profit was calculated. There are many different betting strategies available for universal use, but we focused on calculating the profits for four of them outside of our model: Bet It All, Martingale System, Proportional Betting, and Fixed Betting to be able to give a recommendation on which system on should be factoring into their betting strategy.
@@ -89,5 +99,6 @@ A more practical method is to evaluate a horse’s odds versus its actual observ
 10. [https://www.kaggle.com/jmolitoris/triple-crown-of-horse-races-2005-2019](https://www.kaggle.com/jmolitoris/triple-crown-of-horse-races-2005-2019)
 
 
-
+## Contact us
+Email-Jake Geiser: git@jakegeiser.us
 
