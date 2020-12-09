@@ -100,6 +100,6 @@ A more practical method is to evaluate a horse’s odds versus its actual observ
 
 
 ## Contact us
-Email-Jake Geiser: git@jakegeiser.us
-Email: Dave Moorman: davemoorman@hotmail.com LinkedIn: https://www.linkedin.com/in/dave-moorman-39986a15/
+Email-Jake Geiser: git@jakegeiser.us <hr>
+Email: Dave Moorman: davemoorman@hotmail.com LinkedIn: https://www.linkedin.com/in/dave-moorman-39986a15/ <hr>
 
